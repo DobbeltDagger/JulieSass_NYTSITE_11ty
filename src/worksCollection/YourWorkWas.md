@@ -6,9 +6,6 @@ desc: 'This is the description of the image'
 thumbUrl: '/assets/images/works/overviewThumbs/traverse_screenshot.jpg'
 galleryHalf:
 - { imgUrl: "/assets/images/works/2017_YourWorkWasNeverAboutYou/gallery/1.jpg", caption: "" }
-# - { imgUrl: "/assets/images/works/2017_YourWorkWasNeverAboutYou/gallery/2.jpg", caption: "" }
-# - { imgUrl: "/assets/images/works/2017_YourWorkWasNeverAboutYou/gallery/3.jpg", caption: "" }
-# - { imgUrl: "/assets/images/works/2017_YourWorkWasNeverAboutYou/gallery/4.jpg", caption: "" }
 - { imgUrl: "/assets/images/works/2017_YourWorkWasNeverAboutYou/gallery/traverse_animation.jpg", caption: "" }
 date: 2017-01-01
 eleventyExcludeFromCollections: false
