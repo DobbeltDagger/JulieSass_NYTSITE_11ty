@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Anders Visti. Visual artist working with code. Founder and co-editor of the publishing house * [asterisk] from 2002-12. Founder and editor of the printed web publication ‡ DobbeltDagger and initiator of !=null, a public forum for artists, researchers, developers and hackers using contemporary technology for creative expression and aesthetic inquiry">
+    <!-- <link rel="icon" href="/assets/images/favicon.png" sizes="128x128" type="image/png"> -->
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>{{ title }} | andersvisti.dk</title>
+    <link href="/assets/css/grid.css" rel="stylesheet"/>
+    <link href="/assets/css/style.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="/assets/js/libs/wa-mediabox/wa-mediabox.css">
+    <script type="text/javascript" src="/assets/js/libs/wa-mediabox/wa-mediabox.min.js"></script>
+  </head>
+
+  <body>
+    <div id="pageWrapper">
+      
+      <header>
+        <div id="logo"><a href="/">/*.*</a></div>
+        {% include "menu.html" %}
+      </header>
+
+      <div id="mainWrapper">
+        {% block mainContent %}{% endblock mainContent %}        
+        {# include "footer.html" #}
+      </div>
+
+    </div>
+
+    <!-- scripts here -->
+    <script src='/assets/js/index.js' type="module"></script>
+  </body>
+</html>

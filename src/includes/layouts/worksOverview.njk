@@ -1,0 +1,21 @@
+{% extends "base.njk" %}
+
+{% block mainContent %}
+
+  <div id='workOverviewWrapper'>
+    {% for thumb in collections.works | reverse %}
+      <a
+        href='{{ thumb.url }}'
+        title='{{ thumb.data.title }}'
+        alt='{{ thumb.data.title }}'
+        class='workThumbWrapper'>
+        <span class='image'>
+          <img src='{{ thumb.data.thumbUrl }}' class='maxWidth' alt='{{ thumb.data.title }}' title='{{ thumb.data.title }}' />
+        </span>
+        <span class='title'>{{ thumb.data.shortTitle }}</span>
+        <!-- <span class='text'>{{ thumb.data.desc }}</span> -->
+      </a>
+    {% endfor %}
+  </div>
+
+{% endblock mainContent %}
