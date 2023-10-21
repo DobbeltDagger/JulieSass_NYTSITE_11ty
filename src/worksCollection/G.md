@@ -1,12 +1,12 @@
 ---
-title: 'G'
+title: 'G!'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'G'
+shortTitle: 'G!'
 thumbUrl: '/assets/images/works/thumbs/G.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
  - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
-date: 2022-01-01
+date: 2020-01-01
 eleventyExcludeFromCollections: false
 ---
 
