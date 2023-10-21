@@ -2,10 +2,8 @@
 
 {% block mainContent %}
 
-  <h2>Library</h2>
-
   <div id='workOverviewWrapper'>
-    {% for thumb in collections.library | reverse %}
+    {% for thumb in collections.curate | reverse %}
       <a
         href='{{ thumb.url }}'
         title='{{ thumb.data.title }}'
@@ -18,6 +16,7 @@
         <!-- <span class='text'>{{ thumb.data.desc }}</span> -->
       </a>
     {% endfor %}
-  </div> 
+  </div>
+
 
 {% endblock mainContent %}

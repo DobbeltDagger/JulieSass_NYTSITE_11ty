@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/curateSingle.njk",
+  "tags": "curate"
+}
