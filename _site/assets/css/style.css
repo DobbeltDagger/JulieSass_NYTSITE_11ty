@@ -422,14 +422,15 @@ img.maxWidth {
     position: relative;
   }
   #logo a {
+    /*
     position: absolute;
     top: 0px;
     left: 0px;
     font-size: 32px;
     line-height: 1em;
+    */
     display: block;
     width: auto;
-    float: left;
     color: var(--text-color);
     z-index: 1000;
   }
@@ -641,11 +642,6 @@ img.maxWidth {
   /* no mobile nav */
   .burgerWrapper a#burger #burgerIcon,
   .burgerWrapper a#burger #crossIcon {
-    display: none;
-  }
-
-  /* mobile logo hide */
-  #logo a {
     display: none;
   }
 

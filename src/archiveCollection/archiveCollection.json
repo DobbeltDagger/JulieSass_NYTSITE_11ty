@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/archiveSingle.njk",
+  "tags": "archive"
+}

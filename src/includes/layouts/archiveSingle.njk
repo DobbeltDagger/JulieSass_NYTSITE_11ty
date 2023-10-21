@@ -1,0 +1,36 @@
+{% extends "base.njk" %}
+
+{% block mainContent %}
+
+  <div class="maxWidth workSingleWrapper">
+    {{ content | safe }}
+
+    {% if gallery.length > 0 %}
+      <div class='galleryFullWrapper'>
+        {% for thumb in galleryFull %}
+          <div class="galleryImg">
+            <img src="{{ thumb.imgUrl }}"/>
+            {% if thumb.caption !== "" %}
+              <div class="txt">{{ thumb.caption }}</div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% if galleryHalf.length > 0 %}
+      <div class='galleryHalfWrapper'>
+        {% for thumb in galleryHalf %}
+          <div class="galleryImg">
+            <img src="{{ thumb.imgUrl }}"/>
+            {% if thumb.caption !== "" %}
+              <div class="txt">{{ thumb.caption }}</div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
+
+{% endblock mainContent %}
