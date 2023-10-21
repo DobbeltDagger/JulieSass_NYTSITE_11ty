@@ -182,47 +182,33 @@ img.maxWidth {
 /* ************************************************************************** */
 /* workThumbWrapper */
 #workOverviewWrapper {
-  display: grid;
-  grid-gap: 1rem; /* 2rem; */
-  margin: 0px;
-  /* grid-template-columns: repeat(5, 1fr [col-start]); */
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  display: block;
+  float: left;
+  border: 1px solid red;
 }
 
 #workOverviewWrapper a {
-  padding: 0px; /* 0px 0.25em 0.5em 0.25em; */
-}
-#workOverviewWrapper a img {
-  width: 100%;
-  height: auto;
   display: block;
   float: left;
-  margin-bottom: 0.25em ;
-  transition: all 50ms ease-in-out;
-  transform: scale(1.0);
+  width: auto;
+  padding: 0px;
+  border: 1px solid lightblue;
+  margin-right: 0.5em;
+  margin-bottom: 1em;
 }
-#workOverviewWrapper a:hover img {
-  transform: scale(1.025);
+#workOverviewWrapper a img {
+  height: 165px;
+  width: auto;
+  display: block;
+  float: left;
+  margin-bottom: 0.25em;
 }
 #workOverviewWrapper span.title {
   display: block;
-  float: left;
-  width: 100%;
+  width: max-content;
   font-weight: 700;
   color: var(--text-color);
 }
-#workOverviewWrapper span.text {
-  display: block;
-  float: left;
-  width: 100%;
-  font-size: 0.8em;
-  color: var(--text-color);
-}
-#workOverviewWrapper a:hover span.title,
-#workOverviewWrapper a:hover span.text {
-  text-decoration: none; /* underline; */
-}
-
 
 
 /* ************************************************************************** */
