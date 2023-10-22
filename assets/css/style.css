@@ -410,7 +410,7 @@ img.maxWidth {
     min-height: 100vh;
     display: grid;
     grid-template-rows: max-content;
-    padding: 1rem;
+    padding: 0px;
     margin: 0px;
   }
 
@@ -419,23 +419,25 @@ img.maxWidth {
   }
 
   #logo {
-    position: relative;
+    border: 1px solid yellow;
+    display: block;
+    margin: 0px 0px 28px 28px;
   }
   #logo a {
-    /*
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    font-size: 32px;
-    line-height: 1em;
-    */
     display: block;
-    width: auto;
+    width: 179px;
+    height: 70px;
     color: var(--text-color);
     z-index: 1000;
   }
   #logo a:hover {
     text-decoration: none;
+  }
+  #logo a img {
+    width: 179px;
+    height: 70px;
+    padding: 0;
+    opacity: .8;
   }
 
   #menuWrapper {
@@ -445,8 +447,6 @@ img.maxWidth {
 
   #mainWrapper {
     padding: 0px;
-    /* overflow: hidden; /* NOW IT does not collide with header on mobile!!! */
-    /* No wait i cant do that - i caNT HAVE SCALE EFX ON HOVER THEN */
   }
 
   /* burger menu */
@@ -463,7 +463,6 @@ img.maxWidth {
   /* burger nav */
   .burgerWrapper {
     display: block;
-    margin-bottom: 1rem;
   }
   .burgerWrapper:after {
     content: "";
@@ -488,13 +487,6 @@ img.maxWidth {
     float: left;
   }
   /* "logo" */
-  ul.mobileNav li:first-child {
-    display: block;
-    width: 100%;
-    float: left;
-    margin: 0px 0px 2rem 0px;
-    display: none;
-  }
   ul.mobileNav li a {
     display: block;
     width: 100%;
@@ -514,19 +506,12 @@ img.maxWidth {
     border-bottom: 1px solid transparent;
     background: rgba(51,51,51,.05); /* rgba(0,51,102,.05); */
   }
-  ul.mobileNav li:first-child a:hover {
-    text-decoration: none;
-  }
   ul.mobileNav li.active a {
     text-decoration: line-through;
   }
   ul.mobileNav li.active a:hover {
     text-decoration: line-through;
   }  
-  /* no strike through for logo */
-  ul.mobileNav li:first-child.active a {
-    text-decoration: none;
-  }
   /* hiding nested uls */
   ul.mobileNav li ul {
     display: block;
@@ -613,9 +598,8 @@ img.maxWidth {
 /* BREAK MEDIUM */
 
 @media (min-width: 800px) {
-  #pageWrapper {
-    padding: 2rem; /* 2rem; */
-  }
+
+
 
 }
 
@@ -632,12 +616,12 @@ img.maxWidth {
 
 
   #pageWrapper {
-    min-height: 100vh;
-    display: grid;
     grid-template-columns: 20% 1fr;
-    padding: 3rem; /* 2rem; */
-    margin: 0px;
-  }  
+  }
+
+  #pageWrapper > * {
+    padding-top: 58px;
+  }
 
   /* no mobile nav */
   .burgerWrapper a#burger #burgerIcon,
@@ -652,9 +636,6 @@ img.maxWidth {
   /* burger menu */
   #mobileNavWrapper {
     display: block;
-    width: calc((100vw - 6rem) / 5); /* 15vw; */
-    position: fixed;
-    top: 3rem; /* must follow padding on pageWrapper */
     padding: 0px;
   }
   #mobileNavWrapper.hide {
@@ -665,42 +646,25 @@ img.maxWidth {
     display: none;
   }
   ul.mobileNav {
-    padding: 0px 0px 0.5em 0px; /* 1.3em 1.3em 0.5em 1.3em; */
-    margin-right: 0px; /* -0.9em; */
-    max-height: none;
-    height: auto;
-    border-bottom: 1px solid transparent;
-    text-align: left;
-    /* border: 1px solid red; */
+    margin: 0px;
+    padding: 0px;
   }
   ul.mobileNav li {
     display: block; /* inline-block; */
     width: 100%; /* auto; */
-    float: left; /* none; */
   }
   /* "logo" */
   ul.mobileNav li:first-child {
-    border-top: 0px;
-    display: block;
-    width: 100%;
-    float: left;
-    margin-bottom: 1.75em;
+    display: none;
   }
   ul.mobileNav li a {
     display: block;
-    float: left;
-    width: auto;
-    padding: 0px;
     text-align: left;
-    border-bottom: 0px;
-    border-top: 0px;
-    font-size: 27px;
-    line-height: 1.25em; /* 34px; */
+    padding: 0px 0px 0px 28px;
   }
   ul.mobileNav li a:hover {
-    text-decoration: underline;
-    border: 0px;
-    background: transparent;
+    text-decoration: none;
+    cursor: pointer;
   }
   ul.mobileNav .firstname {
     display: none;
@@ -744,10 +708,6 @@ img.maxWidth {
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 /* 4. */
 @media screen and (min-width: 1400px) {
-  
-  #pageWrapper {
-    padding: 5rem; /* 2rem; */
-  }
 
   /* burger menu */
   #mobileNavWrapper {
