@@ -8,4 +8,4 @@ date: 2013-09-30
 eleventyExcludeFromCollections: false
 ---
 
-Mention in Whitechapel: Documents of Contemporary Art LINK
+Mention in Whitechapel: Documents of Contemporary Art [LINK](http://mitpress.mit.edu/books/time)

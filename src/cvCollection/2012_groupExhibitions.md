@@ -8,5 +8,5 @@ date: 2012-09-30
 eleventyExcludeFromCollections: false
 ---
 
-Peep Shows: Purple, Purple Light, Green Light, Green. Small scale shows in various locations in Copenhagen. LOKAL, LINK<br/>
-SHAPED BY TIME – contemporary art embedded in prehistory, The National Museum, Copenhagen, group show in the Prehistoric section (24 rooms), curated by Milena Høgsberg & Julie Sass 
+Peep Shows: Purple, Purple Light, Green Light, Green. Small scale shows in various locations in Copenhagen. LOKAL, [LINK](http://nlhspace.dk/current-exhibition/)<br/>
+SHAPED BY TIME – contemporary art embedded in prehistory, The National Museum, Copenhagen, group show in the Prehistoric section (24 rooms), curated by Milena Høgsberg & Julie Sass

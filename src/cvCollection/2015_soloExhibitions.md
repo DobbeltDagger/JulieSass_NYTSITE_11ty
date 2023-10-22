@@ -8,5 +8,5 @@ date: 2015-09-30
 eleventyExcludeFromCollections: false
 ---
 
-Be-Bop Your Visual Acts (Shared Space), Third Space, Copenhagen. LINK<br/>
+Be-Bop Your Visual Acts (Shared Space), Third Space, Copenhagen. [LINK](http://thirdspace.dk/)<br/>
 Be-Bop Your Visual Acts Diana Lowenstein Fine Arts, Miami, USA 

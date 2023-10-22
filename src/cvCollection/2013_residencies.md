@@ -9,4 +9,4 @@ eleventyExcludeFromCollections: false
 ---
 
 Steinprent, residency (William Heinesens hus) Faroe Islands.<br/>
-CATWALK INSTITUTE, Hudson, NY LINK
+CATWALK INSTITUTE, Hudson, NY [LINK](http://catwalkartresidency.com/artists)

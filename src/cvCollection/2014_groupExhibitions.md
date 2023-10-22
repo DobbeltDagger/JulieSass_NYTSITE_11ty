@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: false
 ---
 
 Lithographic connections, group show of litho prints, arranged by STEINPRENT and Kinna Povelsen, Vendsyssel Artmuseum, Dk<br/>
-Drawing on Difference: An Ambition, curated by Saul Ostrow and Lidija Slavkovic, Studio Vendome, New York LINK<br/>
+Drawing on Difference: An Ambition, curated by Saul Ostrow and Lidija Slavkovic, Studio Vendome, New York [LINK](http://studiovendome.com/artist_page/ostrow/ostrow.html)<br/>
 Polyfoni II, Galleri Thomas Wallner, Simris, Sweden<br/>
 Minimal Baroque, group show curated with Bodil Nielsen and Courtney J Martin, Rønnebæksholm, Dk.<br/>
-In the Closet, Svends Library, featuring artist’s books, Nivågaard Museum, Dk. LINK 
+In the Closet, Svends Library, featuring artist’s books, Nivågaard Museum, Dk. [LINK](http://airdunord.com/niva-ud-af-skabet-svends-bibliotek-at-nivaagaardsmalerisamling/)
