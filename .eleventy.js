@@ -69,7 +69,19 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addCollection("cvPermanentCollections", function(collection) {
     return collection.getFilteredByTag("permanentCollection");
-  });  
+  });
+  eleventyConfig.addCollection("cvFlatFiles", function(collection) {
+    return collection.getFilteredByTag("flatFile");
+  });
+  eleventyConfig.addCollection("cvSelectedPress", function(collection) {
+    return collection.getFilteredByTag("press");
+  });
+  eleventyConfig.addCollection("cvGrants", function(collection) {
+    return collection.getFilteredByTag("grant");
+  });
+  eleventyConfig.addCollection("cvResidencies", function(collection) {
+    return collection.getFilteredByTag("residency");
+  });
   /*
   eleventyConfig.addCollection("cvDobbeltDagger", function(collection) {
     return collection.getFilteredByTag("dobbeltdagger");

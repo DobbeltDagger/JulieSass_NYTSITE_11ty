@@ -152,6 +152,78 @@
       </div>
     </div>
 
+    <!-- ******************************************************************************************** -->
+    <!-- Flat files -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Flat Files</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        {% for year in collections.cvFlatFiles | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- ******************************************************************************************** -->
+    <!-- Selected Press -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Selected Press (Only Articles in English Listed)</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        {% for year in collections.cvSelectedPress | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- ******************************************************************************************** -->
+    <!-- Grants -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Grants</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        {% for year in collections.cvGrants | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- ******************************************************************************************** -->
+    <!-- Residencies -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Residencies</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        {% for year in collections.cvResidencies | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>    
+
   </div>
 
 {% endblock mainContent %}
