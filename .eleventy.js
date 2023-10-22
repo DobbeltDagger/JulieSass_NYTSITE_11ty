@@ -46,12 +46,31 @@ module.exports = function(eleventyConfig) {
   // eleventyConfig.addPassthroughCopy("assets/images/prints");
 
   // Get only content that matches a tag - https://www.11ty.dev/docs/collections/ (bottom half of page)
-  eleventyConfig.addCollection("cvExhibitions", function(collection) {
-    return collection.getFilteredByTag("exhibitions");
+  eleventyConfig.addCollection("cvEducation", function(collection) {
+    return collection.getFilteredByTag("education");
   });
   eleventyConfig.addCollection("cvUpcoming", function(collection) {
     return collection.getFilteredByTag("upcoming");
   });
+  eleventyConfig.addCollection("cvSolo", function(collection) {
+    return collection.getFilteredByTag("solo");
+  });
+  eleventyConfig.addCollection("cvGroup", function(collection) {
+    return collection.getFilteredByTag("group");
+  });
+  eleventyConfig.addCollection("cvBibliography", function(collection) {
+    return collection.getFilteredByTag("bibliography");
+  });
+  eleventyConfig.addCollection("cvCommissions", function(collection) {
+    return collection.getFilteredByTag("commissions");
+  });
+  eleventyConfig.addCollection("cvArtFairs", function(collection) {
+    return collection.getFilteredByTag("artFair");
+  });
+  eleventyConfig.addCollection("cvPermanentCollections", function(collection) {
+    return collection.getFilteredByTag("permanentCollection");
+  });  
+  /*
   eleventyConfig.addCollection("cvDobbeltDagger", function(collection) {
     return collection.getFilteredByTag("dobbeltdagger");
   });  
@@ -61,15 +80,14 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("cvCurating", function(collection) {
     return collection.getFilteredByTag("curating");
   });
-  eleventyConfig.addCollection("cvBibliography", function(collection) {
-    return collection.getFilteredByTag("bibliography");
-  });
+  
   eleventyConfig.addCollection("cvGrants", function(collection) {
     return collection.getFilteredByTag("grants");
   });
   eleventyConfig.addCollection("cvOther", function(collection) {
     return collection.getFilteredByTag("other");
-  });  
+  });
+  */
 
   
   return {

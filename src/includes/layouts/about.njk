@@ -9,6 +9,24 @@
   <div class='CVWrapper'>
 
     <!-- ******************************************************************************************** -->
+    <!-- Education -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Education</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">    
+        {% for year in collections.cvEducation | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+
+    <!-- ******************************************************************************************** -->
     <!-- Upcoming -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
@@ -27,15 +45,15 @@
     </div>
 
     <!-- ******************************************************************************************** -->
-    <!-- Exhibitions -->
+    <!-- Solo Exhibitions -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        <h2>Exhibitions / Events (selected)</h2>
+        <h2>Solo Exhibitions (selected)</h2>
       </div>
     </div>
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        {% for year in collections.cvExhibitions | reverse %}
+        {% for year in collections.cvSolo | reverse %}
           <div class="YearRow">
             <div class="left">{{ year.data.title }}</div>
             <div class="right">{{ year.data.content | safe }}</div>
@@ -45,51 +63,15 @@
     </div>
 
     <!-- ******************************************************************************************** -->
-    <!-- DobbeltDagger -->
+    <!-- Group Exhibitions -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        <h2>‡ DobbeltDagger</h2>
+        <h2>Group Exhibitions (selected)</h2>
       </div>
     </div>
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        {% for year in collections.cvDobbeltDagger | reverse %}
-          <div class="YearRow">
-            <div class="left">{{ year.data.title }}</div>
-            <div class="right">{{ year.data.content | safe }}</div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-
-    <!-- ******************************************************************************************** -->
-    <!-- NotNull -->
-    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">
-        <h2>!=null</h2>
-      </div>
-    </div>
-    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">    
-        {% for year in collections.cvNotNull | reverse %}
-          <div class="YearRow">
-            <div class="left">{{ year.data.title }}</div>
-            <div class="right">{{ year.data.content | safe }}</div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>     
-
-    <!-- ******************************************************************************************** -->
-    <!-- Curating -->
-    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">
-        <h2>Curating</h2>
-      </div>
-    </div>
-    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">    
-        {% for year in collections.cvCurating | reverse %}
+        {% for year in collections.cvGroup | reverse %}
           <div class="YearRow">
             <div class="left">{{ year.data.title }}</div>
             <div class="right">{{ year.data.content | safe }}</div>
@@ -102,11 +84,11 @@
     <!-- Bibliography -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        <h2>Bibliography / Work citations (selected)</h2>
+        <h2>Bibliography</h2>
       </div>
     </div>
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">    
+      <div class="Grid-cell">
         {% for year in collections.cvBibliography | reverse %}
           <div class="YearRow">
             <div class="left">{{ year.data.title }}</div>
@@ -117,15 +99,33 @@
     </div>
 
     <!-- ******************************************************************************************** -->
-    <!-- Grants -->
+    <!-- Commissions -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        <h2>Grants</h2>
+        <h2>Commissions</h2>
       </div>
     </div>
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">    
-        {% for year in collections.cvGrants | reverse %}
+      <div class="Grid-cell">
+        {% for year in collections.cvCommissions | reverse %}
+          <div class="YearRow">
+            <div class="left">{{ year.data.title }}</div>
+            <div class="right">{{ year.data.content | safe }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>       
+
+    <!-- ******************************************************************************************** -->
+    <!-- Art Fairs -->
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        <h2>Art Fairs</h2>
+      </div>
+    </div>
+    <div class="Grid Grid--gutters Grid--full large-Grid--fit">
+      <div class="Grid-cell">
+        {% for year in collections.cvArtFairs | reverse %}
           <div class="YearRow">
             <div class="left">{{ year.data.title }}</div>
             <div class="right">{{ year.data.content | safe }}</div>
@@ -135,15 +135,15 @@
     </div>
 
     <!-- ******************************************************************************************** -->
-    <!-- Other -->
+    <!-- Permanent Collections -->
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
       <div class="Grid-cell">
-        <h2>Other</h2>
+        <h2>Permanent Collections</h2>
       </div>
     </div>
     <div class="Grid Grid--gutters Grid--full large-Grid--fit">
-      <div class="Grid-cell">    
-        {% for year in collections.cvOther | reverse %}
+      <div class="Grid-cell">
+        {% for year in collections.cvPermanentCollections | reverse %}
           <div class="YearRow">
             <div class="left">{{ year.data.title }}</div>
             <div class="right">{{ year.data.content | safe }}</div>
@@ -151,7 +151,7 @@
         {% endfor %}
       </div>
     </div>
-    
+
   </div>
 
 {% endblock mainContent %}
