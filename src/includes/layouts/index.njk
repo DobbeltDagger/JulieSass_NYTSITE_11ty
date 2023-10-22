@@ -6,4 +6,16 @@
     {{ content | safe }}
   </div>
 
+  <div id='newsOverviewWrapper'>
+    {% for item in collections.news | reverse %}
+      <div class="newsItem">
+        <div class='image'>
+          <img src='{{ item.data.imageUrl }}' class='maxWidth' alt='{{ item.data.title }}' title='{{ item.data.title }}' />
+        </div>
+        <div class='title'>{{ item.data.shortTitle }}</span>
+        <!-- <span class='text'>{{ item.data.desc }}</span> -->
+      </div>
+    {% endfor %}
+  </div>
+
 {% endblock mainContent %}
