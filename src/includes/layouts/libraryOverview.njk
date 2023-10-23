@@ -32,6 +32,22 @@
         <span class='title'>{{ thumb.data.shortTitle }}</span>
       </a>
     {% endfor %}
-  </div> 
+  </div>
+
+  <h3>Texts</h3>
+  <div id='workOverviewWrapper'>
+    {% for thumb in collections.text | reverse %}
+      <a
+        href='{{ thumb.url }}'
+        title='{{ thumb.data.title }}'
+        alt='{{ thumb.data.title }}'
+        class='workThumbWrapper'>
+        <span class='image'>
+          <img src='{{ thumb.data.thumbUrl }}' class='maxWidth' alt='{{ thumb.data.title }}' title='{{ thumb.data.title }}' />
+        </span>
+        <span class='title'>{{ thumb.data.shortTitle }}</span>
+      </a>
+    {% endfor %}
+  </div>   
 
 {% endblock mainContent %}
