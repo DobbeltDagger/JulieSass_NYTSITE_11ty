@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/works/thumbs/BevaebnetMed.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
  - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
-date: 2020-12-07
+date: 2016-12-11
 eleventyExcludeFromCollections: false
 ---
 
