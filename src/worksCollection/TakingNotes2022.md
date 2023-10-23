@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/works/thumbs/TakingNotes2022.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
  - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
-date: 2022-12-24
+date: 2023-12-24
 eleventyExcludeFromCollections: false
 ---
 
