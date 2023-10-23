@@ -2,10 +2,9 @@
 
 {% block mainContent %}
 
-  <h2>Library</h2>
-
+  <h3>Books &amp; Publications</h3>
   <div id='workOverviewWrapper'>
-    {% for thumb in collections.library | reverse %}
+    {% for thumb in collections.book | reverse %}
       <a
         href='{{ thumb.url }}'
         title='{{ thumb.data.title }}'
@@ -15,7 +14,22 @@
           <img src='{{ thumb.data.thumbUrl }}' class='maxWidth' alt='{{ thumb.data.title }}' title='{{ thumb.data.title }}' />
         </span>
         <span class='title'>{{ thumb.data.shortTitle }}</span>
-        <!-- <span class='text'>{{ thumb.data.desc }}</span> -->
+      </a>
+    {% endfor %}
+  </div> 
+
+  <h3>Press</h3>
+  <div id='workOverviewWrapper'>
+    {% for thumb in collections.pressLibrary | reverse %}
+      <a
+        href='{{ thumb.url }}'
+        title='{{ thumb.data.title }}'
+        alt='{{ thumb.data.title }}'
+        class='workThumbWrapper'>
+        <span class='image'>
+          <img src='{{ thumb.data.thumbUrl }}' class='maxWidth' alt='{{ thumb.data.title }}' title='{{ thumb.data.title }}' />
+        </span>
+        <span class='title'>{{ thumb.data.shortTitle }}</span>
       </a>
     {% endfor %}
   </div> 
