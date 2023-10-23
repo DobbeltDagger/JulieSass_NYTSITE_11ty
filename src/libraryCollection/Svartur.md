@@ -8,7 +8,7 @@ gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - pressLibrary
-date: 2022-01-01
+date: 2022-12-11
 eleventyExcludeFromCollections: false
 ---
 

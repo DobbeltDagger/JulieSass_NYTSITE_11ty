@@ -1,14 +1,14 @@
 ---
-title: 'BestSelf'
+title: 'Best Self'
 permalink: "/library/{{ title | slugify }}/"
-shortTitle: 'BestSelf'
+shortTitle: 'Best Self'
 thumbUrl: '/assets/images/library/thumbs/BestSelf.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
  - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - pressLibrary
-date: 2017-01-01
+date: 2009-01-01
 eleventyExcludeFromCollections: false
 ---
 
@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>BestSelf</h2>
+      <h2>Best Self</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>
