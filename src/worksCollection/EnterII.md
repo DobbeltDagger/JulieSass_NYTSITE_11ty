@@ -18,5 +18,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>ENTER II</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>ENTER II</h2>
+  <p>Foto credit: Torben Eskerod</p>
+</div>

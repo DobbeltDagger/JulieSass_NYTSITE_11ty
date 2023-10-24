@@ -21,6 +21,7 @@ date: 2023-01-01
 eleventyExcludeFromCollections: false
 ---
 
-
-<h2>Listasavn Færoya</h2>
-<p>Lorem Ipsum</p>
+<div class="txt">
+  <h2>Listasavn Færoya</h2>
+  <p>Listasavn Færoya, Færøernes Kunstmuseum. Udstillingen var kurateret af Hansina Iversen. Foto kreditering: Erling Lykke Jeppesen, installationsfotos: Julie Sass</p>
+<div>

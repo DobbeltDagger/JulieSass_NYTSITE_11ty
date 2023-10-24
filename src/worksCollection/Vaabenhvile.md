@@ -12,5 +12,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>VÅBENHVILE - 100 ÅRS FORESTILLINGER</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>VÅBENHVILE - 100 ÅRS FORESTILLINGER</h2>
+  <p><em>SCENE</em>, INSTALLATION MED SYEDE ELEMENTER</p>
+  <p>OVERGADEN 2015</p>
+</div>

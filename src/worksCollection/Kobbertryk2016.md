@@ -12,5 +12,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Kobbertryk 2016</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Kobbertryk 2016</h2>
+  <p>Kobbertryk + chine collé + sugar lift i samarbejde med Printers Proof<br>
+  + in Pierogi 2000, Flat file, New York</p>
+</div>

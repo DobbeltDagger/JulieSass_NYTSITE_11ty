@@ -31,5 +31,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Quarantine Works #2</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Quarantine Works #2</h2>
+  <p>Quarantaine works #2, 2020. Kurateret af Julie Sass. Med Marianne Grønnow og Dorte Jelstrup + JS.<br>
+  Foto: Anders Sune Berg.&nbsp;</p>
+</div>

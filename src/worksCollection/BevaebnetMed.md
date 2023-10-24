@@ -12,5 +12,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Bevæbnet med Vinger</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Bevæbnet med Vinger</h2>
+  <p>Udstilling om Michael Strunge, 2016.&nbsp;Kurateret af TOMAS Lagermand Lundme<br><a href="//kopenhagen.dk/artguide/single/article/bevaebnet-med-vinger/" target="_blank">http://kopenhagen.dk/artguide/single/article/bevaebnet-med-vinger/</a></p>
+</div>

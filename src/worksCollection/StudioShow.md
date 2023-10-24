@@ -11,5 +11,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Studio Show</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Studio Show</h2>
+  <p>Studio show, wall installation.&nbsp;New York, Juni 2013.</p>
+</div>

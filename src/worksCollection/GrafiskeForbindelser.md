@@ -12,5 +12,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Grafiske Forbindelser, 2014, 2015</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Grafiske Forbindelser, 2014, 2015</h2>
+  <p>Dansestovan, Nordens Hus, 2015</p>
+  <p>Litografi/ lithographs, 2013 - 2015</p>
+</div>

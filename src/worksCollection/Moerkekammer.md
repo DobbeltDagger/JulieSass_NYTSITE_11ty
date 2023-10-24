@@ -14,5 +14,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Mørkekammer</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Mørkekammer</h2>
+  <p><a href="http://www.kunsten.nu/artikler/artikel.php?hilleroed+bibliotek+karen+blixen+moerkekammer+tomas+lagermand+lundme">Kunsten Nu</a>&nbsp;2015</p>
+</div>

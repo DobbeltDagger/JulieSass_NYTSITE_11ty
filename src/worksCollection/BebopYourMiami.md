@@ -19,5 +19,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Be-Bop Your Visual Acts (Miami) soloshow, 2015</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Be-Bop Your Visual Acts (Miami) soloshow, 2015</h2>
+  <p>Diana Lowenstein Gallery, Miami</p>
+  <p><img alt="sienna mulepose" class="Image img__fid__172 img__view_mode__default media-image mulepose" src="https://juliesass.dk/sites/default/files/brun_be_bop_your_visual_acts_4_small.jpg" title="sienna mulepose"></p>
+</div>

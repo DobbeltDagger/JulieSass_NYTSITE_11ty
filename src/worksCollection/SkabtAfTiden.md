@@ -14,5 +14,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Skabt af Tiden, Shaped by Time 2012</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Skabt af Tiden, Shaped by Time 2012</h2>
+  <p>&nbsp;2012 <a href="http://www.e-flux.com/announcements/shaped-by-time/">Skabt af Tiden/Shaped By Time</a></p>
+</div>

@@ -13,8 +13,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-      <h2>Kobbertryk med chine collé og sugarlift 2016</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
+<div class="Txt">
+  <h2>Kobbertryk</h2>
+  <p>shown at / vist på CODE&nbsp;art fair 2017 +&nbsp;art herning 2018.<br>
+intaglio&nbsp;<a href="http://www.printers-proof.dk/julie-sass/" target="_blank">http://www.printers-proof.dk/julie-sass/&nbsp;</a></p>
 </div>

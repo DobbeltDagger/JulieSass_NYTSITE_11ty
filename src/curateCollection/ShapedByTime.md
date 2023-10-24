@@ -11,5 +11,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Shaped By Time</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Shaped By Time</h2>
+  <p><a href="https://juliesass.dk/SkabtAfTiden/index.html" target="_blank">Click here to see the website</a></p>
+</div>

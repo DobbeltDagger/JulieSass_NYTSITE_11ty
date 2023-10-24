@@ -13,5 +13,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>MURALS Skitser</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>MURALS skitser</h2>
+  <p>Comission / Kommission for Statens Kunstfond, Nørre Gymnasium.</p>
+</div>

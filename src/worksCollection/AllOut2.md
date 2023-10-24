@@ -11,5 +11,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>All Out</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>All Out</h2>
+  <p><a href="http://kopenhagen.dk/artguide/single/article/all-out/" target="_blank">http://kopenhagen.dk/artguide/single/article/all-out/</a></p>
+</div>

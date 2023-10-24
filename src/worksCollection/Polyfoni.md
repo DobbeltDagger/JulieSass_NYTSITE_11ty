@@ -15,5 +15,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Polyfoni</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Polyfoni</h2>
+  <p>Thomas Wallner, Simris.<br>
+  A4, mixed media, 2013</p>
+</div>

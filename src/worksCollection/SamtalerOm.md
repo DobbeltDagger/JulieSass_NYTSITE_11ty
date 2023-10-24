@@ -15,7 +15,7 @@ date: 2022-12-08
 eleventyExcludeFromCollections: false
 ---
 
-
-
-<h2>Samtaler Om</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Samtaler om Tåge</h2>
+  <p>Samtaler om Tåge, kurateret af Kinna Poulsen, 2020-2021.</p>
+</div>

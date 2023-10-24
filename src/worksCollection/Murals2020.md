@@ -23,5 +23,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Murals 2020</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>MURALS 2020</h2>
+  <p><a href="https://norreg.dk/da/content/julie-sass-udsmykker-n%C3%B8rre-g" target="_blank">https://norreg.dk/da/content/julie-sass-udsmykker-n%C3%B8rre-g</a><br><a href="https://bha.dk/2020/03/kunstneren-julie-sass-paa-noerre-gymnasium/" target="_blank">https://bha.dk/2020/03/kunstneren-julie-sass-paa-noerre-gymnasium/</a></p>
+</div>

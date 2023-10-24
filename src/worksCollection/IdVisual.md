@@ -20,5 +20,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>ID- Visual Identity 2014</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>ID- Visual Identity 2014</h2>
+  <p>2014</p>
+</div>

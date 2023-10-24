@@ -12,5 +12,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Lille Talisman</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Lille Talisman</h2>
+  <p>Lille Talisman 1 +2 2021. Maleri, 50 x 40 cm, forskellige mederi på bomuld</p>
+</div>

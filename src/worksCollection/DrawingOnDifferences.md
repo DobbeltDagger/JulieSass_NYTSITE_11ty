@@ -12,5 +12,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Drawing on Differance, 2014</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Drawing on Differance, 2014</h2>
+  <p>Group show, curated by Lidija Slavkovic + Saul Ostrow, Studio Vendome, NY</p>
+</div>
