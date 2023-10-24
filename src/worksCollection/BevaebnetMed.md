@@ -1,7 +1,7 @@
 ---
-title: 'BevaebnetMed'
+title: 'Bevæbnet med Vinger'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'BevaebnetMed'
+shortTitle: 'Bevæbnet med Vinger'
 thumbUrl: '/assets/images/works/thumbs/BevaebnetMed.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>BevaebnetMed</h2>
+      <h2>Bevæbnet med Vinger</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

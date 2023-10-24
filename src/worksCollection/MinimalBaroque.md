@@ -1,7 +1,7 @@
 ---
-title: 'MinimalBaroque'
+title: 'minimal BAROQUE'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'MinimalBaroque'
+shortTitle: 'minimal BAROQUE'
 thumbUrl: '/assets/images/works/thumbs/MinimalBaroque.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>MinimalBaroque</h2>
+      <h2>minimal BAROQUE</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

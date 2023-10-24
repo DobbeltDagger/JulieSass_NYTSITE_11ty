@@ -1,7 +1,7 @@
 ---
-title: 'EnHistorieOmAbstraktion'
+title: 'En Kort Historie om Abstraktion'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'EnHistorieOmAbstraktion'
+shortTitle: 'En Kort Historie'
 thumbUrl: '/assets/images/works/thumbs/EnHistorieOmAbstraktion.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>EnHistorieOmAbstraktion</h2>
+      <h2>En Kort Historie om Abstraktion</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

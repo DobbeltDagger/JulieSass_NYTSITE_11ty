@@ -1,7 +1,7 @@
 ---
-title: 'MemoryObject'
+title: 'MEMORY OBJECT UNFOLD'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'MemoryObject'
+shortTitle: 'MEMORY OBJECT'
 thumbUrl: '/assets/images/works/thumbs/MemoryObject.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>MemoryObject</h2>
+      <h2>MEMORY OBJECT UNFOLD</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

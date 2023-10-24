@@ -1,7 +1,7 @@
 ---
-title: 'VraaUdstillingen'
+title: 'Vrå Udstillingen'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'VraaUdstillingen'
+shortTitle: 'Vrå Udstillingen'
 thumbUrl: '/assets/images/works/thumbs/VraaUdstillingen.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>VraaUdstillingen</h2>
+      <h2>Vrå Udstillingen</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

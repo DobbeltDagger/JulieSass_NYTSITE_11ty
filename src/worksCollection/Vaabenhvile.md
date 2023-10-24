@@ -1,7 +1,7 @@
 ---
-title: 'Vaabenhvile'
+title: 'VÅBENHVILE - 100 ÅRS FORESTILLINGER'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'Vaabenhvile'
+shortTitle: 'VÅBENHVILE - 100 ÅRS FORESTILLINGER'
 thumbUrl: '/assets/images/works/thumbs/Vaabenhvile.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>Vaabenhvile</h2>
+      <h2>VÅBENHVILE - 100 ÅRS FORESTILLINGER</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

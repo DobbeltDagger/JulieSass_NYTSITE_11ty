@@ -206,13 +206,13 @@ img.maxWidth {
 /* workSingleWrapper */
 
 .workSingleWrapper {
-  /* border: 1px solid pink; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+  border: 1px solid red;
 }
-.workSingleWrapper img {
-  display: block;
-  float: left;
-  width: 100%;
-}
+
+
 
 .headerGroup h2,
 .headerGroup h3 {
@@ -232,30 +232,19 @@ img.maxWidth {
 /* ************************************************************************** */
 /* Gallery wrapper  */
 
-.galleryThirdWrapper {
-  display: grid;
-  grid-gap: 1rem;
-  margin: 1rem 0px 0px 0px;
-  grid-template-columns: repeat(3, 1fr [col-start]);
-}
-
-.galleryHalfWrapper {
-  display: grid;
-  grid-gap: 1rem;
-  margin: 1rem 0px 0px 0px;
-  grid-template-columns: repeat(2, 1fr [col-start]);
-}
-
-.galleryFullWrapper {
-  display: grid;
-  grid-gap: 1rem;
-  margin: 1rem 0px 0px 0px;
-  grid-template-columns: repeat(1, 1fr [col-start]);
+.galleryWrapper {
+  display: block;
+  float: left;
+  width: 100%;
+  border: 1px solid pink;
 }
 
 .galleryImg img {
+  height: 130px;
+  width: auto;
   display: block;
   float: left;
+  margin: 0px 1em 1em 0px;
 }
 
 .galleryImg .txt {

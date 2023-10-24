@@ -1,7 +1,7 @@
 ---
-title: 'LemonMood'
+title: 'LEMON MOOD'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'LemonMood'
+shortTitle: 'LEMON MOOD'
 thumbUrl: '/assets/images/works/thumbs/LemonMood.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>LemonMood</h2>
+      <h2>LEMON MOOD</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

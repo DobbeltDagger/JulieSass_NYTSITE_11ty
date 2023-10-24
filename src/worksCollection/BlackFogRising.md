@@ -1,7 +1,7 @@
 ---
-title: 'BlackFogRising'
+title: 'BLACK FOG RISING'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'BlackFogRising'
+shortTitle: 'BLACK FOG RISING'
 thumbUrl: '/assets/images/works/thumbs/BlackFogRising.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>BlackFogRising</h2>
+      <h2>BLACK FOG RISING</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

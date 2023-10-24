@@ -1,7 +1,7 @@
 ---
-title: 'DrawingOnDifferences'
+title: 'Drawing on Differance, 2014'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'DrawingOnDifferences'
+shortTitle: 'Drawing on Differance'
 thumbUrl: '/assets/images/works/thumbs/DrawingOnDifferences.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>DrawingOnDifferences</h2>
+      <h2>Drawing on Differance, 2014</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

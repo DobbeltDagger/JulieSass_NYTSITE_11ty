@@ -1,7 +1,7 @@
 ---
-title: 'IdVisual'
+title: 'ID- Visual Identity 2014'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'IdVisual'
+shortTitle: 'ID- Visual'
 thumbUrl: '/assets/images/works/thumbs/IdVisual.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>IdVisual</h2>
+      <h2>ID- Visual Identity 2014</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

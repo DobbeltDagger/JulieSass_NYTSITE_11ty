@@ -1,7 +1,7 @@
 ---
-title: 'Kobbertryk'
+title: 'Kobbertryk med chine collé og sugarlift 2016'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'Kobbertryk'
+shortTitle: 'Kobbertryk med chine'
 thumbUrl: '/assets/images/works/thumbs/Kobbertryk.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>Kobbertryk</h2>
+      <h2>Kobbertryk med chine collé og sugarlift 2016</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

@@ -1,7 +1,7 @@
 ---
-title: 'AllOut2'
+title: 'All Out'
 permalink: "/work/{{ title | slugify }}2/"
-shortTitle: 'AllOut2'
+shortTitle: 'All Out'
 thumbUrl: '/assets/images/works/thumbs/AllOut2.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>AllOut2</h2>
+      <h2>All Out</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

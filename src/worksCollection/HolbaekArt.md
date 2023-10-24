@@ -1,7 +1,7 @@
 ---
-title: 'HolbaekArt'
+title: 'Holbæk Art'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'HolbaekArt'
+shortTitle: 'Holbæk Art'
 thumbUrl: '/assets/images/works/thumbs/HolbaekArt.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>HolbaekArt</h2>
+      <h2>Holbæk Art</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

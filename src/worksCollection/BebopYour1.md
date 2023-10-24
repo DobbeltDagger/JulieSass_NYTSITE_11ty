@@ -1,7 +1,7 @@
 ---
-title: 'BebopYour1'
+title: 'Be-Bop Your Visual Acts, SHARED SPACE, Third space'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'BebopYour1'
+shortTitle: 'Be-Bop Your Visual'
 thumbUrl: '/assets/images/works/thumbs/BebopYour1.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>BebopYour1</h2>
+      <h2>Be-Bop Your Visual Acts, SHARED SPACE, Third space</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

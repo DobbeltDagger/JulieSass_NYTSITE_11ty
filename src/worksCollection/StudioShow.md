@@ -1,7 +1,7 @@
 ---
-title: 'StudioShow'
+title: 'Studio Show'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'StudioShow'
+shortTitle: 'Studio Show'
 thumbUrl: '/assets/images/works/thumbs/StudioShow.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>StudioShow</h2>
+      <h2>Studio Show</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

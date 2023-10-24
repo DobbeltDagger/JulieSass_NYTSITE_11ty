@@ -1,7 +1,7 @@
 ---
-title: 'SkabtAfTiden'
+title: 'Skabt af Tiden, Shaped by Time 2012'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'SkabtAfTiden'
+shortTitle: 'Skabt af Tiden'
 thumbUrl: '/assets/images/works/thumbs/SkabtAfTiden.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>SkabtAfTiden</h2>
+      <h2>Skabt af Tiden, Shaped by Time 2012</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>

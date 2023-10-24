@@ -1,7 +1,7 @@
 ---
-title: 'TakingNotesElements'
+title: 'TAKING NOTES, Elements Past and Present 2017'
 permalink: "/work/{{ title | slugify }}/"
-shortTitle: 'TakingNotesElements'
+shortTitle: 'TAKING NOTES, Elements Past and'
 thumbUrl: '/assets/images/works/thumbs/TakingNotesElements.jpg'
 gallery:
  - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: false
 <div class="Grid Grid--gutters Grid--full large-Grid--fit">
   <div class="Grid-cell">
     <div class='headerGroup'>
-      <h2>TakingNotesElements</h2>
+      <h2>TAKING NOTES, Elements Past and Present 2017</h2>
       <p>Lorem Ipsum</p>
     </div>
   </div>
