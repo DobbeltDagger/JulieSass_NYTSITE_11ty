@@ -13,9 +13,6 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
       <h2>Kobbertryk med chine collé og sugarlift 2016</h2>
       <p>Lorem Ipsum</p>
     </div>

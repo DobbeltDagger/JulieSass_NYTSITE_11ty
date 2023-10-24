@@ -11,9 +11,6 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
       <h2>Yellow Light, 2021</h2>
       <p>Lorem Ipsum</p>
     </div>
