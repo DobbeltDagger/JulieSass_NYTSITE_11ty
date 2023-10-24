@@ -4,20 +4,16 @@ permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'All Out'
 thumbUrl: '/assets/images/works/thumbs/AllOut.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "Listasavn"
+galleryFolder: "AllOut"
 gallery:
- - { imgUrl: "1.jpg", caption: "" }
- - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "" }
+  - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "3.jpg", caption: "" }
+  - { imgUrl: "4.jpg", caption: "" }  
 date: 2015-12-05
 eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
-      <h2>All Out</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
+<h2>All Out</h2>
+<p>Lorem Ipsum</p>
