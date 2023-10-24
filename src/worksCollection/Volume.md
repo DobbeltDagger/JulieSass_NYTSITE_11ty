@@ -3,7 +3,7 @@ title: 'VOLUME'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'VOLUME'
 thumbUrl: '/assets/images/works/thumbs/Volume.jpg'
-imgUrl: "dialogues_kunstbib_lowres.jpg"
+imgUrl: "front.jpg"
 galleryFolder: "Volume"
 gallery:
   - { imgUrl: "1.jpg", caption: "" }

@@ -3,21 +3,16 @@ title: 'Mørkekammer'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Mørkekammer'
 thumbUrl: '/assets/images/works/thumbs/Moerkekammer.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "Listasavn"
+imgUrl: "til_isak_morkekammer_2015_storre.jpg"
+galleryFolder: "Moerkekammer"
 gallery:
- - { imgUrl: "1.jpg", caption: "" }
- - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "" }
+  - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "3.jpg", caption: "" }
 date: 2016-12-02
 eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
-      <h2>Mørkekammer</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
+<h2>Mørkekammer</h2>
+<p>Lorem Ipsum</p>
