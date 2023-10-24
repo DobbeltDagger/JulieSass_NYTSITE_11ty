@@ -13,5 +13,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Be-bop Your Visual Acts (Shared Space)</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Be-bop Your Visual Acts (Shared Space)</h2>
+  <p>STUDIO INTERNATIONAL <a href="http://www.studiointernational.com/index.php/julie-sass-be-bop-your-visual-acts-shared-space-review">Article by Allie Biswas</a>&nbsp;2015</p>
+</div>

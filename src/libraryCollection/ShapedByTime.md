@@ -13,5 +13,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Shaped By Time</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>SHAPED BY TIME</h2>
+  <p><a href="http://revolver-publishing.com/w3NoM.php?nodeId=1203" target="_blank">SHAPED BY TIME, Revolver Publishing</a></p>
+  <p><a href="https://mitpress.mit.edu/books/time" target="_blank">TIME Documents of Contemporary Art</a> mentions Shaped by Time</p>
+</div>

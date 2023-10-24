@@ -13,5 +13,9 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Liv i abstraktionens hus</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Liv i abstraktionens hus</h2>
+  <p><a href="https://kunsten.nu/journal/liv-i-abstraktionens-hus/">LINK</a></p>
+  <p>af Kristian Handberg</p>
+  <p>Kunsten.Nu 2018</p>
+</div>

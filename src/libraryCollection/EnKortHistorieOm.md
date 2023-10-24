@@ -13,5 +13,6 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>En kort historie om abstraktion / A brief history of abstraction</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>En kort historie om abstraktion / A brief history of abstraction</h2>
+</div>

@@ -13,5 +13,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Sten under fornyet pres (artikel, Kunsten.nu)</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Sten under fornyet pres (artikel, Kunsten.nu)</h2>
+  <p>link til artikel: <a href="https://kunsten.nu/journal/sten-fornyet-pres/" target="_blank">https://kunsten.nu/journal/sten-fornyet-pres/</a></p>
+</div>

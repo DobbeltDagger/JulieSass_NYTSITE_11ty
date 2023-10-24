@@ -14,5 +14,9 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Be-bop Your Visual Acts (Shared Space)</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Be-bop Your Visual Acts (Shared Space)</h2>
+  <p><a href="http://bestselfmedia.com/art-julie-sass/">The Fine Art Of Julie Sass</a>, Best Self, interview by Amanda Church</p>
+  <p>Wonderland # 11, 2015<br>
+  Kurateret af/&nbsp;Curated by&nbsp;Miriam Nielsen</p>
+</div>

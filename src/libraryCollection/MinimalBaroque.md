@@ -14,5 +14,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Minimal Baroque</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Minimal Baroque</h2>
+  <p>Download pdf:&nbsp;<a href="https://juliesass.dk/sites/default/files/juliesass_barok_web96dpi.pdf" target="_blank">juliesass_barok_web96dpi.pdf</a>&nbsp;(18.82 MB)</p>
+</div>

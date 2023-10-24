@@ -13,5 +13,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Best Self</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Best Self</h2>
+  <p><a href="http://bestselfmedia.com/art-julie-sass/">The Fine Art of Julie Sass</a>, Best Self, interview by Amanda Church, December 2015</p>
+</div>

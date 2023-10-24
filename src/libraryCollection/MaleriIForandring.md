@@ -14,5 +14,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Måleri i förändring // Painting in Transformation, Vikingsberg, 2001</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Måleri i förändring // Painting in Transformation, Vikingsberg, 2001</h2>
+  <p>Text by Magnus Jensner</p>
+</div>

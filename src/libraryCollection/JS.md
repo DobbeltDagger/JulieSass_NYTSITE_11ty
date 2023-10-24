@@ -13,5 +13,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>JS</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>JS</h2>
+  <p><a href="http://revolver-publishing.com/w3NoM.php?nodeId=1208" target="_blank">JS, Revolver Publishing</a></p>
+</div>

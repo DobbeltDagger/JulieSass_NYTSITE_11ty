@@ -13,5 +13,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Poesi Uden</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Poesi Uden Grænser</h2>
+  <p>JS læser (Foto credit: Sissal Kampmann)</p>
+  <p><a href="https://www.nordatlantens.dk/da/arrangementer/2019/poesi-uden-gr%C3%A6nser-2019/" target="_blank">https://www.nordatlantens.dk/da/arrangementer/2019/poesi-uden-gr%C3%A6nser-2019/</a></p>
+</div>

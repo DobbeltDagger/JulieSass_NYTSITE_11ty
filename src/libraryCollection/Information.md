@@ -14,5 +14,7 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Information</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Information</h2>
+  <p><a href="https://www.information.dk/kultur/2018/12/kunstredaktionen-peger-paa-aarets-vigtigste-vaerker-dansk-kunst">LINK</a></p>
+</div>

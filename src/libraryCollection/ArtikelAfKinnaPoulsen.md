@@ -14,5 +14,8 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Artikel af Kinna Poulsen, Litografi, STEINPRENT</h2>
-<p>Lorem Ipsum</p>
+<div class="Txt">
+  <h2>Artikel af Kinna Poulsen, Litografi, STEINPRENT</h2>
+  <p>Tekst af Kinna Poulsen, litografi,&nbsp;Færøerne. 2015</p>
+  <p>Text by Kinna Poulsen, lithographs, The Faroe Islands. 2015</p>
+</div>
