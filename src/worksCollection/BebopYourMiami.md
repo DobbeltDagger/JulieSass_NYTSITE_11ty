@@ -3,9 +3,11 @@ title: 'Be-Bop Your Visual Acts (Miami) soloshow, 2015'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Be-Bop Your Visual Acts (Miami)'
 thumbUrl: '/assets/images/works/thumbs/BebopYourMiami.jpg'
+imgUrl: "front.jpg"
+galleryFolder: "Listasavn"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+ - { imgUrl: "1.jpg", caption: "" }
+ - { imgUrl: "2.jpg", caption: "" }
 date: 2016-12-03
 eleventyExcludeFromCollections: false
 ---

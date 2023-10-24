@@ -3,9 +3,11 @@ title: 'KobbertrykMed'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'KobbertrykMed'
 thumbUrl: '/assets/images/works/thumbs/KobbertrykMed.jpg'
+imgUrl: "front.jpg"
+galleryFolder: "Listasavn"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+ - { imgUrl: "1.jpg", caption: "" }
+ - { imgUrl: "2.jpg", caption: "" }
 date: 2020-12-07
 eleventyExcludeFromCollections: false
 ---

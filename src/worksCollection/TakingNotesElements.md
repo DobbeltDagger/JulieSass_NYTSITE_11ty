@@ -3,9 +3,11 @@ title: 'TAKING NOTES, Elements Past and Present 2017'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'TAKING NOTES, Elements Past and'
 thumbUrl: '/assets/images/works/thumbs/TakingNotesElements.jpg'
+imgUrl: "front.jpg"
+galleryFolder: "Listasavn"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+ - { imgUrl: "1.jpg", caption: "" }
+ - { imgUrl: "2.jpg", caption: "" }
 date: 2020-12-01
 eleventyExcludeFromCollections: false
 ---
