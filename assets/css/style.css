@@ -256,6 +256,38 @@ img.maxWidth {
 
 
 
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* footer */
+
+footer {
+  width: 100%;
+  float: left;
+  border-top: 1px dotted rgba(0,0,0,.2);
+  padding: 1em 0 2em;
+  margin: 3em 0 0;
+}
+
+footer .grid .left {
+  margin-left: 22.5%;
+  width: 57.5%;
+}
+footer .grid .right {
+  display: block;
+  float: left;
+  width: 20%;
+  text-align: right;
+  padding: 0 15px;
+}
+
+footer .SKlogo {
+  width: 170px;
+  height: auto;
+  line-height: normal;
+  opacity: .5;
+  display: inline-block;
+  padding: 0 0 0 2px;
+}
+
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
