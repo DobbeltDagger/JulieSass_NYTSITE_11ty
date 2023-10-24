@@ -3,21 +3,18 @@ title: 'Be-Bop Your Visual Acts, SHARED SPACE, Third space'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Be-Bop Your Visual'
 thumbUrl: '/assets/images/works/thumbs/BebopYour1.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "Listasavn"
+imgUrl: "julie-sass_white.jpg"
+galleryFolder: "BebopYour1"
 gallery:
- - { imgUrl: "1.jpg", caption: "" }
- - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "final_performancecollage_www.jpg", caption: "" }
+  - { imgUrl: "14201350x70cm.jpg", caption: "" }
+  - { imgUrl: "_1_2014_untitled_collage_drawing_82x71_cm.jpg", caption: "" }
+  - { imgUrl: "oplaesning.jpg", caption: "" }
+  - { imgUrl: "bebopny.jpg", caption: "" }
 date: 2016-12-07
 eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
-      <h2>Be-Bop Your Visual Acts, SHARED SPACE, Third space</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
+<h2>Be-Bop Your Visual Acts, SHARED SPACE, Third space</h2>
+<p>Lorem Ipsum</p>

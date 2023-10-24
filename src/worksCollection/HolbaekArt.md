@@ -3,21 +3,17 @@ title: 'Holbæk Art'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Holbæk Art'
 thumbUrl: '/assets/images/works/thumbs/HolbaekArt.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "Listasavn"
+imgUrl: "js_uden_stillads.jpg"
+galleryFolder: "HolbaekArt"
 gallery:
- - { imgUrl: "1.jpg", caption: "" }
- - { imgUrl: "2.jpg", caption: "" }
+  - { imgUrl: "skitse_cut-out_arkitektur_vignet_holbaek_art_juli_2016.jpg", caption: "" }
+  - { imgUrl: "skitse_holbaek_art_juli_2016.jpg", caption: "" }
+  - { imgUrl: "tp_js_pa_stillads_to_vaerker.jpg", caption: "" }
+  - { imgUrl: "js_holbaek_art._t_fotopapillon.jpg", caption: "" } 
 date: 2016-12-10
 eleventyExcludeFromCollections: false
 ---
 
 
-<div class="Grid Grid--gutters Grid--full large-Grid--fit">
-  <div class="Grid-cell">
-    <div class='headerGroup'>
-      <h2>Holbæk Art</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
+<h2>Holbæk Art</h2>
+<p>Lorem Ipsum</p>
