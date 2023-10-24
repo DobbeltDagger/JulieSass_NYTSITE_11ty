@@ -5,7 +5,9 @@
   <div class="workSingleWrapper">
 
     <div>
-      <img src="/assets/images/library/galleries/{{ galleryFolder }}/{{ imgUrl}}" />
+      {% if imgUrl !== "" %}
+        <img src="/assets/images/library/galleries/{{ galleryFolder }}/{{ imgUrl }}" />
+      {% endif %}
       {{ content | safe }}
     </div>
 

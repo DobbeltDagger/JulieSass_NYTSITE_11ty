@@ -4,10 +4,8 @@ permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Liv i abstraktionens'
 thumbUrl: '/assets/images/library/thumbs/LivIAbstraktionens.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+galleryFolder: "LivIAbstraktionens"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - pressLibrary
 date: 2006-01-01

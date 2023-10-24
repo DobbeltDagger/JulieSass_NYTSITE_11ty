@@ -3,11 +3,9 @@ title: 'Best Self'
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Best Self'
 thumbUrl: '/assets/images/library/thumbs/BestSelf.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+imgUrl: "3_2014_untitled_collage_drawing_w_lithograph_90_x_70cm_1.jpg"
+galleryFolder: "BestSelf"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - pressLibrary
 date: 2009-01-01

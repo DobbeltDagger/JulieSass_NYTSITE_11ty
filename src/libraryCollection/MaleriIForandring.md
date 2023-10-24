@@ -4,10 +4,9 @@ permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Måleri i förändring'
 thumbUrl: '/assets/images/library/thumbs/painting-in-transformation-vikingsberg-2001.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+galleryFolder: "MaleriIForandring"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+  - { imgUrl: "painting-in-transformation-by-magnus-jensner-2001.jpg", caption: "" }
 tags:
   - book
 date: 2011-12-01

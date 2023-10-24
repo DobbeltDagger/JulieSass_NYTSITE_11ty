@@ -3,11 +3,10 @@ title: 'Be-bop Your Visual Acts (Shared Space)'
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Be-bop Your Visual Acts'
 thumbUrl: '/assets/images/library/thumbs/BebopYourVisualActs.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+imgUrl: "opslag_i_wonderland_2015_a.jpg"
+galleryFolder: "BebopYourVisualActs"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+ - { imgUrl: "3_2014_untitled_collage_drawing_w_lithograph_90_x_70cm.jpg", caption: "" }
 tags:
   - pressLibrary
 date: 2013-01-01

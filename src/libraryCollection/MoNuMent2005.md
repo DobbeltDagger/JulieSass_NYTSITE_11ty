@@ -3,11 +3,9 @@ title: 'Mo Nu Ment 2005'
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Mo Nu Ment 2005'
 thumbUrl: '/assets/images/library/thumbs/monument_frontpage.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+imgUrl: "monument_frontpage.jpg"
+galleryFolder: "MoNuMent2005"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - book
 date: 2012-12-01

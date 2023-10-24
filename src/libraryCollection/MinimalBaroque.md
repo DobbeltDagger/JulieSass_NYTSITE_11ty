@@ -4,10 +4,9 @@ permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Minimal Baroque'
 thumbUrl: '/assets/images/library/thumbs/MinimalBaroque.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+galleryFolder: "MinimalBaroque"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
+  - { imgUrl: "motto_e_invite_minimal_baroque_0.jpg", caption: "" }
 tags:
   - book
 date: 2021-12-01

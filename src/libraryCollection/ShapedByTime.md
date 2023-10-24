@@ -3,11 +3,9 @@ title: 'Shaped By Time'
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Shaped By Time'
 thumbUrl: '/assets/images/library/thumbs/shaped_by_time_aug_2012.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+imgUrl: "shaped_by_time_aug_2012.jpg"
+galleryFolder: "ShapedByTime"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - book
 date: 2013-12-01

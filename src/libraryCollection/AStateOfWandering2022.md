@@ -4,7 +4,7 @@ permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'A State of Wandering'
 thumbUrl: '/assets/images/library/thumbs/AStateOfWandering.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+galleryFolder: "AStateOfWandering2022"
 gallery:
   - { imgUrl: "1.jpg", caption: "" }
   - { imgUrl: "2.jpg", caption: "" }

@@ -3,11 +3,9 @@ title: 'Black Fog Rising Svartur mjørki í Steinprenti'
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Svartur mjørki í Steinprenti'
 thumbUrl: '/assets/images/library/thumbs/Svartur.jpg'
-imgUrl: "front.jpg"
-galleryFolder: "xxxxxxxxxx"
+imgUrl: "foggy-ocean-2508773.jpg"
+galleryFolder: "Svartur"
 gallery:
- - { imgUrl: "/assets/images/works/2020_AaUOS/AAUOS_sequencer.jpg", caption: "" }
- - { imgUrl: "/assets/images/works/2020_AaUOS/AaUOS_Textbot_0002_Layer-20.jpg", caption: "" }
 tags:
   - pressLibrary
 date: 2022-12-11
