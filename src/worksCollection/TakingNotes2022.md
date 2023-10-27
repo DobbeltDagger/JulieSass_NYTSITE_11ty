@@ -18,14 +18,5 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<img src="" />
 <h2>Taking Notes 2022</h2>
 <p>Lorem Ipsum</p>
-
-<!--
-      <h2>Taking Notes 2022</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
--->

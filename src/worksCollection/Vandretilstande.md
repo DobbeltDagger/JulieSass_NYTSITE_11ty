@@ -6,19 +6,19 @@ thumbUrl: '/assets/images/works/thumbs/Vandretilstande.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "Vandretilstande"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }
-  - { imgUrl: "7.jpg", caption: "" }
-  - { imgUrl: "8.jpg", caption: "" }
-  - { imgUrl: "9.jpg", caption: "" }
-  - { imgUrl: "10.jpg", caption: "" }
-  - { imgUrl: "11.jpg", caption: "" }
-  - { imgUrl: "12.jpg", caption: "" }
-  - { imgUrl: "13.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "2.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "3.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "4.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "5.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "6.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "7.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "8.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "9.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "10.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "11.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "12.jpg", caption: "Untitled, collage-drawing. A4 størrelse, forskellige medier på sort papir, 2020-2021." }
+  - { imgUrl: "13.jpg", caption: "Intrance, path, 2020." }
 date: 2022-12-07
 eleventyExcludeFromCollections: false
 ---

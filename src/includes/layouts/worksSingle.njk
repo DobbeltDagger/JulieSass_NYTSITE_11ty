@@ -10,6 +10,7 @@
     </div>
 
     <!-- gallery -->
+    <!-- 
     <div>
       {% if gallery.length > 0 %}
         <div class='galleryWrapper'>
@@ -24,6 +25,36 @@
         </div>
       {% endif %}
     </div>
+    -->
+
+    <!-- lightbox -->
+    <div>
+      {% if gallery.length > 0 %}
+        <div class='galleryLightboxWrapper'>
+          {% for thumb in gallery %}
+
+            <div class="galleryImg">
+
+              {% if thumb.caption !== "" %}
+                <a href="/assets/images/works/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="gallery" data-title="{{ thumb.caption }}" title="{{ thumb.caption }}" alt="{{ thumb.caption }}">
+                  <img src="/assets/images/works/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                </a>
+              {% else %}
+                <a href="/assets/images/works/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="{{ shortTitle }}" data-title="{{ shortTitle }}" title="{{ shortTitle }}" alt="{{ shortTitle }}">
+                  <img src="/assets/images/works/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                </a>              
+              {% endif %}
+
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+
+    <!-- 
+    <a href="./images/projektSTOL/01.png" data-mediabox="projekt STOL" data-title="projekt STOL" title="projekt STOL" alt="projekt STOL"><img src="./images/projektSTOL/01.png" alt="Image"></a>
+    -->
+
 
   </div>
 
