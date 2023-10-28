@@ -1,5 +1,6 @@
 ---
 title: 'Skabt af Tiden, Shaped by Time 2012'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Skabt af Tiden'
 thumbUrl: '/assets/images/works/thumbs/SkabtAfTiden.jpg'

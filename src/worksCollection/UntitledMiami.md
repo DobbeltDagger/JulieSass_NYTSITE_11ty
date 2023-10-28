@@ -1,5 +1,6 @@
 ---
 title: 'Untitled, Miami'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Untitled, Miami'
 thumbUrl: '/assets/images/works/thumbs/UntitledMiami.jpg'

@@ -1,5 +1,6 @@
 ---
 title: 'Quarantine Works #2'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Quarantine Works #2'
 thumbUrl: '/assets/images/works/thumbs/QuarantineWorks2.jpg'

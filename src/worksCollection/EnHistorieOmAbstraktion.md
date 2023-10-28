@@ -1,5 +1,6 @@
 ---
 title: 'En Kort Historie om Abstraktion'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'En Kort Historie'
 thumbUrl: '/assets/images/works/thumbs/EnHistorieOmAbstraktion.jpg'

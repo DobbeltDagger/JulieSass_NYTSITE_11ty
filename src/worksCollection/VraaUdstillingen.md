@@ -1,5 +1,6 @@
 ---
 title: 'Vrå Udstillingen'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Vrå Udstillingen'
 thumbUrl: '/assets/images/works/thumbs/VraaUdstillingen.jpg'

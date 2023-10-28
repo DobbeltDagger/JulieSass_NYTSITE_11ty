@@ -1,5 +1,6 @@
 ---
 title: 'Friends With Books'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Friends With Books'
 thumbUrl: '/assets/images/works/thumbs/FriendsWithBooks.jpg'

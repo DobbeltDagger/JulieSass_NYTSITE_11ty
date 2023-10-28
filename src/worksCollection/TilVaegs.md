@@ -1,5 +1,6 @@
 ---
 title: 'TIL VÆGS'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'TIL VÆGS'
 thumbUrl: '/assets/images/works/thumbs/TilVaegs.jpg'

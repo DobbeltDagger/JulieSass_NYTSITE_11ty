@@ -105,7 +105,10 @@ h3 {
 
 p {
   font-size: 1em;
-  margin: 0px 0px 1.5rem 0px;
+  line-height: 20px;
+  font-weight: 400;
+  margin: 0 0 1.25em;
+  max-width: 560px;
 }
 
 /* INLINE LINKS */
@@ -209,10 +212,20 @@ img.maxWidth {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 2em;
-  border: 1px solid red;
 }
-
-
+.workSingleWrapper .bigImg {
+  max-width: 100%;
+  height: auto;
+}
+.workSingleWrapperHorisontal {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2em;
+  border: 1px solid green;  
+}
+.workSingleWrapperHorisontal .bigImg {
+  margin-bottom: 1em;
+}
 
 .headerGroup h2,
 .headerGroup h3 {

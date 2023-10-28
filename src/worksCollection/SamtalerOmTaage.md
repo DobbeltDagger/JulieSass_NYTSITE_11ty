@@ -1,5 +1,6 @@
 ---
 title: 'Samtaler Om Tåge'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Samtaler Om Tåge'
 thumbUrl: '/assets/images/works/thumbs/samtaler_omtaage_setup.jpg'

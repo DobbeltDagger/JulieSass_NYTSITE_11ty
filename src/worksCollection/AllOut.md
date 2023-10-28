@@ -1,5 +1,6 @@
 ---
 title: 'All Out'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'All Out'
 thumbUrl: '/assets/images/works/thumbs/AllOut.jpg'

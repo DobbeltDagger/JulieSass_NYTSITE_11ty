@@ -1,5 +1,6 @@
 ---
 title: 'BLACK FOG RISING'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'BLACK FOG RISING'
 thumbUrl: '/assets/images/works/thumbs/BlackFogRising.jpg'

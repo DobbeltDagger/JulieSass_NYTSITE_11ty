@@ -1,5 +1,6 @@
 ---
 title: 'Studio Show'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Studio Show'
 thumbUrl: '/assets/images/works/thumbs/StudioShow.jpg'

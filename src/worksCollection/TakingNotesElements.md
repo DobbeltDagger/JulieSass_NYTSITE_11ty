@@ -1,5 +1,6 @@
 ---
 title: 'TAKING NOTES, Elements Past and Present 2017'
+orientation: "horisontal"
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'TAKING NOTES, Elements Past and'
 thumbUrl: '/assets/images/works/thumbs/TakingNotesElements.jpg'
