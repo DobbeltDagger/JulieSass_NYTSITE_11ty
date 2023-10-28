@@ -6,17 +6,17 @@ thumbUrl: '/assets/images/works/thumbs/LightMatter.jpg'
 imgUrl: "light_matter_2018._politiken._view_from_street_mirror_image_raadhuspladsen_cph.jpg"
 galleryFolder: "LightMatter"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }
-  - { imgUrl: "7.jpg", caption: "" }
-  - { imgUrl: "8.jpg", caption: "" }
-  - { imgUrl: "9.jpg", caption: "" }
-  - { imgUrl: "10.jpg", caption: "" }
-  - { imgUrl: "11.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "Særtryk 2018" }
+  - { imgUrl: "2.jpg", caption: "Flag, juni 2018" }
+  - { imgUrl: "3.jpg", caption: "Akvatinteætsning. Trykt på Somerset White Satin 300 gr." }
+  - { imgUrl: "4.jpg", caption: "Akvatinteætsning. Trykt på Somerset White Satin 300 gr." }
+  - { imgUrl: "5.jpg", caption: "Akvatinteætsning. Trykt på Somerset White Satin 300 gr." }
+  - { imgUrl: "6.jpg", caption: "En Kort Historie om Abstraktion, Rønnebæksholm, 1. Maleri, 210 x 170cm, forskellige medier på lærred. Fotocredit: Erling Lykke Jeppesen" }
+  - { imgUrl: "7.jpg", caption: "LIGHT MATTER" }
+  - { imgUrl: "8.jpg", caption: "Fragment of Flag, 2018. Light Matter. Foto Jonna Pedersen" }
+  - { imgUrl: "9.jpg", caption: "Night view, LIGHT MATTER, 2018" }
+  - { imgUrl: "10.jpg", caption: "drawings LIGHT MATTER snapshot" }
+  - { imgUrl: "11.jpg", caption: "LIGHT MATTER" }
 date: 2020-12-05
 eleventyExcludeFromCollections: false
 ---

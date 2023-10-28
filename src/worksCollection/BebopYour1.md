@@ -6,11 +6,11 @@ thumbUrl: '/assets/images/works/thumbs/BebopYour1.jpg'
 imgUrl: "julie-sass_white.jpg"
 galleryFolder: "BebopYour1"
 gallery:
-  - { imgUrl: "final_performancecollage_www.jpg", caption: "" }
-  - { imgUrl: "14201350x70cm.jpg", caption: "" }
-  - { imgUrl: "_1_2014_untitled_collage_drawing_82x71_cm.jpg", caption: "" }
-  - { imgUrl: "oplaesning.jpg", caption: "" }
-  - { imgUrl: "bebopny.jpg", caption: "" }
+  - { imgUrl: "final_performancecollage_www.jpg", caption: "Be-Bop Your Visual Acts, SHARED SPACE, Third space" }
+  - { imgUrl: "14201350x70cm.jpg", caption: "Untitled/Uden titel #14, 2013, painting/ maleri, 50 x 70cm" }
+  - { imgUrl: "_1_2014_untitled_collage_drawing_82x71_cm.jpg", caption: "_1_2014_untitled_collage_drawing_82x71_cm.jpg" }
+  - { imgUrl: "oplaesning.jpg", caption: "Be-Bop Your Visual Acts, SHARED SPACE, Third space" }
+  - { imgUrl: "bebopny.jpg", caption: "Be-Bop Your Visual Acts, SHARED SPACE, Third space" }
 date: 2016-12-07
 eleventyExcludeFromCollections: false
 ---

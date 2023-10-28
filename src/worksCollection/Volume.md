@@ -6,17 +6,17 @@ thumbUrl: '/assets/images/works/thumbs/Volume.jpg'
 imgUrl: "dialogues_kunstbib_lowres.jpg"
 galleryFolder: "Volume"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }
-  - { imgUrl: "7.jpg", caption: "" }
-  - { imgUrl: "8.jpg", caption: "" }
-  - { imgUrl: "9.jpg", caption: "" }
-  - { imgUrl: "10.jpg", caption: "" }
-  - { imgUrl: "11.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "2.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "3.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "4.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "5.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "6.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "7.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "8.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "9.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "10.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
+  - { imgUrl: "11.jpg", caption: "VOLUME RHYTHM MATTER dialogues. Arturo Herrera, Erin Lawlor, Ann Pibal Steel Stillman" }
 date: 2020-11-20
 eleventyExcludeFromCollections: false
 ---

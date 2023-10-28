@@ -6,14 +6,14 @@ thumbUrl: '/assets/images/works/thumbs/G.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "G"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }
-  - { imgUrl: "7.jpg", caption: "" }
-  - { imgUrl: "8.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "G!" }
+  - { imgUrl: "2.jpg", caption: "Collage på hessian, mixed media" }
+  - { imgUrl: "3.jpg", caption: "Maleri 60x50 cm, sølv på gul" }
+  - { imgUrl: "4.jpg", caption: "Tegning, mixed media" }
+  - { imgUrl: "5.jpg", caption: "G!" }
+  - { imgUrl: "6.jpg", caption: "G! Festival" }
+  - { imgUrl: "7.jpg", caption: "view from exhibition space G! festival" }
+  - { imgUrl: "8.jpg", caption: "JS reading, Nordens Hus, ALWAYS COMING HOME!" }
 date: 2020-12-08
 eleventyExcludeFromCollections: false
 ---

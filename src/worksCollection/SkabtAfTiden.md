@@ -6,9 +6,9 @@ thumbUrl: '/assets/images/works/thumbs/SkabtAfTiden.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "SkabtAfTiden"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }  
+  - { imgUrl: "1.jpg", caption: "montre og maleri mod runehal" }
+  - { imgUrl: "2.jpg", caption: "Montre" }
+  - { imgUrl: "3.jpg", caption: "Montre" }  
 date: 2015-12-09
 eleventyExcludeFromCollections: false
 ---

@@ -6,12 +6,12 @@ thumbUrl: '/assets/images/works/thumbs/BlackFogRising.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "BlackFogRising"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }    
+  - { imgUrl: "1.jpg", caption: "Forskellige medier på papir, ca. 24 x 21 cm/ Mixed media on paper" }
+  - { imgUrl: "2.jpg", caption: "Large sewn piece, 2019" }
+  - { imgUrl: "3.jpg", caption: "Black Fog Rising (Pattern Painting) Mixed media on canvas, 165 x 140 cm, 2019" }
+  - { imgUrl: "4.jpg", caption: "Untitled (Black Fog Rising) 2019" }
+  - { imgUrl: "5.jpg", caption: "Black Fog Rising, kig i artist book, heliografi" }
+  - { imgUrl: "6.jpg", caption: "Tegning og bog i niche, STEINPRENT, 2019" }    
 date: 2015-12-04
 eleventyExcludeFromCollections: false
 ---

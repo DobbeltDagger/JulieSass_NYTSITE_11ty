@@ -6,9 +6,9 @@ thumbUrl: '/assets/images/works/thumbs/Moerkekammer.jpg'
 imgUrl: "til_isak_morkekammer_2015_storre.jpg"
 galleryFolder: "Moerkekammer"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "Mørkekammer" }
+  - { imgUrl: "2.jpg", caption: "Mørkekammer" }
+  - { imgUrl: "3.jpg", caption: "Installation shot" }
 date: 2016-12-02
 eleventyExcludeFromCollections: false
 ---

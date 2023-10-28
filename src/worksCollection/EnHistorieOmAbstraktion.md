@@ -6,57 +6,57 @@ thumbUrl: '/assets/images/works/thumbs/EnHistorieOmAbstraktion.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "EnHistorieOmAbstraktion"
 gallery:
-  - { imgUrl: "1.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "4.jpg", caption: "" }
-  - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "" }
-  - { imgUrl: "7.jpg", caption: "" }
-  - { imgUrl: "8.jpg", caption: "" }
-  - { imgUrl: "9.jpg", caption: "" }
-  - { imgUrl: "10.jpg", caption: "" }
-  - { imgUrl: "11.jpg", caption: "" }
-  - { imgUrl: "12.jpg", caption: "" }
-  - { imgUrl: "13.jpg", caption: "" }
-  - { imgUrl: "14.jpg", caption: "" }
-  - { imgUrl: "15.jpg", caption: "" }
-  - { imgUrl: "16.jpg", caption: "" }
-  - { imgUrl: "17.jpg", caption: "" }
-  - { imgUrl: "18.jpg", caption: "" }
-  - { imgUrl: "19.jpg", caption: "" }
-  - { imgUrl: "20.jpg", caption: "" }
-  - { imgUrl: "21.jpg", caption: "" }
-  - { imgUrl: "22.jpg", caption: "" }
-  - { imgUrl: "23.jpg", caption: "" }
-  - { imgUrl: "24.jpg", caption: "" }
-  - { imgUrl: "25.jpg", caption: "" }
-  - { imgUrl: "26.jpg", caption: "" }
-  - { imgUrl: "27.jpg", caption: "" }
-  - { imgUrl: "28.jpg", caption: "" }
-  - { imgUrl: "29.jpg", caption: "" }
-  - { imgUrl: "30.jpg", caption: "" }
-  - { imgUrl: "31.jpg", caption: "" }
-  - { imgUrl: "32.jpg", caption: "" }
-  - { imgUrl: "33.jpg", caption: "" }
-  - { imgUrl: "34.jpg", caption: "" }
-  - { imgUrl: "35.jpg", caption: "" }
-  - { imgUrl: "36.jpg", caption: "" }
-  - { imgUrl: "37.jpg", caption: "" }
-  - { imgUrl: "38.jpg", caption: "" }
-  - { imgUrl: "39.jpg", caption: "" }
-  - { imgUrl: "40.jpg", caption: "" }
-  - { imgUrl: "41.jpg", caption: "" }
-  - { imgUrl: "42.jpg", caption: "" }
-  - { imgUrl: "43.jpg", caption: "" }
-  - { imgUrl: "44.jpg", caption: "" }
-  - { imgUrl: "45.jpg", caption: "" }
-  - { imgUrl: "46.jpg", caption: "" }
-  - { imgUrl: "47.jpg", caption: "" }
-  - { imgUrl: "48.jpg", caption: "" }
-  - { imgUrl: "49.jpg", caption: "" }
-  - { imgUrl: "50.jpg", caption: "" }
-  - { imgUrl: "51.jpg", caption: "" }
+  - { imgUrl: "1.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "2.jpg", caption: "Maleri, 90x70cm, 2017-18. Forskellige medier på lærred. Foto: Torben Eskerod" }
+  - { imgUrl: "3.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "4.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "5.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "6.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "7.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "8.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "9.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "10.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "11.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "12.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "13.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "14.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "15.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "16.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "17.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "18.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "19.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "20.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "21.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "22.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "23.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "24.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "25.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "26.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "27.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "28.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "29.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "30.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "31.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "32.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "33.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "34.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "35.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "36.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "37.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "38.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "39.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "40.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "41.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "42.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "43.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "44.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "45.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "46.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "47.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "48.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "49.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "50.jpg", caption: "En Kort Historie om Abstraktion" }
+  - { imgUrl: "51.jpg", caption: "En Kort Historie om Abstraktion" }
 date: 2020-12-03
 eleventyExcludeFromCollections: false
 ---

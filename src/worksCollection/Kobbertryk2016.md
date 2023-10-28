@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/works/thumbs/Kobbertryk2016.jpg'
 imgUrl: "nr_1_kobbertryk_chine-colle_og_sugarlift_2016_0.jpg"
 galleryFolder: "Kobbertryk2016"
 gallery:
- - { imgUrl: "kobbertryk_chine-colle_og_sugarlift_2016_0.jpg", caption: "" }
+ - { imgUrl: "kobbertryk_chine-colle_og_sugarlift_2016_0.jpg", caption: "Kobbertryk Chine-collé og sugarlift, 2016" }
 date: 2016-12-12
 eleventyExcludeFromCollections: false
 ---
