@@ -79,13 +79,17 @@ body {
 /* TYPE STUFF */
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 500; 
-  line-height: 1.3em;
-  margin: 0px 0px 0px 0px;
+  letter-spacing: 0px;
+  line-height: 1.2em;
+  color: #444;
+  margin: 0 0 .75em;
+  /* font-family: 'MuseoSlab-700';*/
+  font-weight: 500; /* 400; */
+  padding: 0;
 }
 h2 {
-  font-size: 2.5em; /* 1.35em; */
-  line-height: 1.05em;
+  font-size: 19px; /* 2.5em; /* 1.35em; */
+  /* line-height: 1.05em; */
   padding: 0px;
 }
 h3 {
@@ -179,30 +183,30 @@ img.maxWidth {
 
 /* ************************************************************************** */
 /* workThumbWrapper */
-#workOverviewWrapper {
+.workOverviewWrapper {
   display: block;
   float: left;
-  border: 1px solid red;
+  margin-bottom: 2em;
 }
-#workOverviewWrapper a {
+.workOverviewWrapper a {
   display: block;
   float: left;
   width: auto;
   padding: 0px;
-  margin-right: 0.65em;
-  margin-bottom: 1em;
+  margin-right: 8px; /* 0.65em; */
+  margin-bottom: 8px; /* 1em; */
 }
-#workOverviewWrapper a {
+.workOverviewWrapper a {
   text-decoration: none;
 }
-#workOverviewWrapper a img {
+.workOverviewWrapper a img {
   height: 165px;
   width: auto;
   display: block;
   float: left;
   margin-bottom: 0.25em;
 }
-#workOverviewWrapper span.title {
+.workOverviewWrapper span.title {
   display: block;
   width: max-content;
   color: var(--text-color);
@@ -225,7 +229,6 @@ img.maxWidth {
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 2em;
-  border: 1px solid green;  
 }
 .workSingleWrapperHorisontal .bigImg {
   margin-bottom: 1em;
@@ -275,25 +278,16 @@ img.maxWidth {
 /* footer */
 
 footer {
-  width: 100%;
-  float: left;
+  margin: 4em 0px 2em 0px;
+  display: grid;
+  grid-template-columns: 20% 1fr 100px;
+  grid-gap: 0px;
+  padding: 1em 0px 2em 0px;
   border-top: 1px dotted rgba(0,0,0,.2);
-  padding: 1em 0 2em;
-  margin: 3em 0 0;
 }
-
-footer .grid .left {
-  margin-left: 22.5%;
-  width: 57.5%;
-}
-footer .grid .right {
-  display: block;
-  float: left;
-  width: 20%;
+footer > div:nth-child(3) {
   text-align: right;
-  padding: 0 15px;
 }
-
 footer .SKlogo {
   width: 170px;
   height: auto;
@@ -417,71 +411,16 @@ footer .SKlogo {
   }
 
 
-
-  /* mobileNav */
-  /*
-  ul.mobileNav {
-    list-style: none;
-    height: auto;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-    overflow: hidden;
-    transition: max-height 0.2s ease;
-    padding: 0px;
-    margin: 0px;
+  .bioWrapper {
+    display: grid;
+    grid-template-columns: 1fr; /* 3fr 2fr; */
+    grid-gap: 1em;
+    margin-bottom: 2em;
   }
-  ul.mobileNav li {
-    display: block;
-    width: 100%;
+  .bioWrapper p {
+    max-width: none;
   }
-  
-
-  ul.mobileNav li a {
-    display: block;
-    width: 100%;
-    border-bottom: 1px solid transparent;
-    font-size: 27px;
-    line-height: 1em;
-    text-align: center;
-    padding: 0.5em;
-    font-weight: 400;
-    color: var(--text-color);
-  }
-  ul.mobileNav li a:hover {
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    background: rgba(51,51,51,.05);
-  }
-
-  ul.mobileNav li:first-child {
-    display: none;
-  }
-  ul.mobileNav li a {
-    display: block;
-    text-align: left;
-    padding: 0px 0px 0px 28px;
-  }
-  ul.mobileNav li a:hover {
-    text-decoration: none;
-    cursor: pointer;
-  }  
-
-  ul.mobileNav li a::before {
-    position: absolute;
-    bottom: 50%;
-    left: 0;
-    display: block;
-    width: 10px;
-    height: 10px;
-    z-index: 400;
-    content: " ";
-    border: 5px solid transparent;
-      border-left-width: 5px;
-      border-left-style: solid;
-      border-left-color: transparent;
-    margin-bottom: -5px;
-  }
-  */
-
+    
 
   /* CV wrappers */
   .CVWrapper {
@@ -490,11 +429,21 @@ footer .SKlogo {
   .CVWrapper p {
     max-width: none; /* 560px; */
   }
+  /*
   .CVWrapper h2 {
     font-size: 1.75rem;
     line-height: 1.05em;
     margin-bottom: 1rem;
   }
+  */
+  .CVWrapper h2 {
+    margin: 0 0 .8em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+  }
+
   .CVWrapper .YearRow {
     display: block;
     width: 100%;
@@ -565,6 +514,13 @@ footer .SKlogo {
     overflow-y: scroll;
   }
 
+  header {
+    position: relative;
+  }
+  header .inside {
+    position: fixed;
+  }
+
   p#Updating {
     display: block;
     margin-left: 28px;
@@ -576,6 +532,7 @@ footer .SKlogo {
 
   #pageWrapper {
     grid-template-columns: 20% 1fr;
+    min-height: 400px;
   }
 
   #pageWrapper > * {
@@ -611,27 +568,9 @@ footer .SKlogo {
   }
 
   /* overwriting NAV */
-
-  /*
-  header ul.menu li a {
-    font-size: 13px;
-    line-height: 17px;
-    letter-spacing: 1px;
-    text-transform: capitalize;
-    color: #444;
-    display: inline-block;
-    width: auto;
-    padding: 3px 10px 3px 30px;
-    margin: 0;
-    position: relative;
-    background: 0 0;
-    text-decoration: none;
-  }
-  */
   ul.mobileNav li:last-of-type {
     margin-top: 1.75em;
   }
-  
   ul.mobileNav li a {
     font-size: 13px;
     line-height: 1.7em; /* 17px; */
@@ -641,7 +580,7 @@ footer .SKlogo {
     text-align: left;
     width: max-content;
     /* padding: 0px 0px 0px 28px; */
-    padding: 0px 0px 0px 28px;
+    padding: 0px 0px 0px 30px; /* 28px; */
     position: relative;
   }
   ul.mobileNav li a:hover {
@@ -681,6 +620,13 @@ footer .SKlogo {
     margin: 0px 0px 2rem 0px; 
   }
 
+
+  .bioWrapper {
+    grid-template-columns: 3fr 2fr;
+    grid-gap: 4em;
+  }
+  
+
 }
 
 
@@ -689,7 +635,7 @@ footer .SKlogo {
 /* 4. */
 @media screen and (min-width: 1280px) {
 
-  #workOverviewWrapper {
+  .workOverviewWrapper {
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   }
 

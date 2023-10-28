@@ -2,8 +2,8 @@
 
 {% block mainContent %}
 
-  <h3>Books &amp; Publications</h3>
-  <div id='workOverviewWrapper'>
+  <h2>Books &amp; Publications</h2>
+  <div class='workOverviewWrapper'>
     {% for thumb in collections.book | reverse %}
       <a
         href='{{ thumb.url }}'
@@ -18,8 +18,8 @@
     {% endfor %}
   </div> 
 
-  <h3>Press</h3>
-  <div id='workOverviewWrapper'>
+  <h2>Press</h2>
+  <div class='workOverviewWrapper'>
     {% for thumb in collections.pressLibrary | reverse %}
       <a
         href='{{ thumb.url }}'
@@ -34,8 +34,8 @@
     {% endfor %}
   </div>
 
-  <h3>Texts</h3>
-  <div id='workOverviewWrapper'>
+  <h2>Texts</h2>
+  <div class='workOverviewWrapper'>
     {% for thumb in collections.text | reverse %}
       <a
         href='{{ thumb.url }}'

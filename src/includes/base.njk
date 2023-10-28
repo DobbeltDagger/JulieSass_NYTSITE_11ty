@@ -26,31 +26,34 @@
       <div class="TopBg"></div>
 
       <header>
-        <div id="logo">
-          <a href="/" title="juliesass.dk">
-            <img src="/assets/images/JULIE_SASS_NAME.svg" alt="Julie Sass">
-          </a>
+        <div class="inside">
+          <div id="logo">
+            <a href="/" title="juliesass.dk">
+              <img src="/assets/images/JULIE_SASS_NAME.svg" alt="Julie Sass">
+            </a>
+          </div>
+          {% include "menu.html" %}
+          <p id="Updating">Site is under construction</p>
         </div>
-        {% include "menu.html" %}
-        <p id="Updating">Site is under construction</p>
       </header>      
 
       <div id="mainWrapper">
         {% block mainContent %}{% endblock mainContent %}        
-        {# include "footer.html" #}
       </div>
 
     </div> <!-- eof pageWrapper -->
 
     <!-- footer -->
     <footer>
-      <div class="grid">
-        <div class="left">
-          <p>Julie Sass © 2023. This website is sponsored by <a href="http://www.kunst.dk/english/danish-arts-foundation/" target="_blank"><img src="/assets/images/StatensKunstfondLogoENG.png" class="SKlogo"></a></p>
-        </div>
-        <div class="right">
-          <p><a href="#">top</a></p>
-        </div>
+      <div>&nbsp;</div>
+      <div>
+        <p>
+          Julie Sass © 2023. This website is sponsored by
+          <a href="http://www.kunst.dk/english/danish-arts-foundation/" target="_blank"><img src="/assets/images/StatensKunstfondLogoENG.png" class="SKlogo"></a>
+        </p>
+      </div>
+      <div>
+        <p><a href="#">top</a></p>
       </div>
     </footer>
 
