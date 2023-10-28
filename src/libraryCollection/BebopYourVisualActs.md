@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/library/thumbs/BebopYourVisualActs.jpg'
 imgUrl: "opslag_i_wonderland_2015_a.jpg"
 galleryFolder: "BebopYourVisualActs"
 gallery:
- - { imgUrl: "3_2014_untitled_collage_drawing_w_lithograph_90_x_70cm.jpg", caption: "" }
+ - { imgUrl: "3_2014_untitled_collage_drawing_w_lithograph_90_x_70cm.jpg", caption: "The Fine Art Of Julie Sass, article in Best Self, 2015" }
 tags:
   - pressLibrary
 date: 2013-01-01

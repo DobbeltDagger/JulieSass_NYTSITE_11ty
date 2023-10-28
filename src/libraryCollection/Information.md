@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/library/thumbs/Information.jpg'
 imgUrl: "rune_gade_information_dec_2018_3.jpg"
 galleryFolder: "Information"
 gallery:
-  - { imgUrl: "rune_gade_information_dec_2018.jpg", caption: "" }
+  - { imgUrl: "rune_gade_information_dec_2018.jpg", caption: "Information, 21. december, 2018" }
 tags:
   - pressLibrary
 date: 2005-01-01

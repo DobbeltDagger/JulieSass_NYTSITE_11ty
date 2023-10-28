@@ -6,7 +6,7 @@ thumbUrl: '/assets/images/library/thumbs/painting-in-transformation-vikingsberg-
 imgUrl: "front.jpg"
 galleryFolder: "MaleriIForandring"
 gallery:
-  - { imgUrl: "painting-in-transformation-by-magnus-jensner-2001.jpg", caption: "" }
+  - { imgUrl: "painting-in-transformation-by-magnus-jensner-2001.jpg", caption: "Måleri i förändring // Painting in Transformation, Vikingsberg, 2001" }
 tags:
   - book
 date: 2011-12-01

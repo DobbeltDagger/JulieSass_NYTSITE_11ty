@@ -11,21 +11,29 @@
       {{ content | safe }}
     </div>
 
-    <!-- gallery -->
+    <!-- lightbox -->
     <div>
       {% if gallery.length > 0 %}
-        <div class='galleryWrapper'>
+        <div class='galleryLightboxWrapper'>
           {% for thumb in gallery %}
+
             <div class="galleryImg">
-              <img src="/assets/images/library/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}"/>
+
               {% if thumb.caption !== "" %}
-                <div class="txt">{{ thumb.caption }}</div>
+                <a href="/assets/images/library/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="gallery" data-title="{{ thumb.caption }}" title="{{ thumb.caption }}" alt="{{ thumb.caption }}">
+                  <img src="/assets/images/library/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                </a>
+              {% else %}
+                <a href="/assets/images/library/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="{{ title }}" data-title="{{ title }}" title="{{ title }}" alt="{{ title }}">
+                  <img src="/assets/images/library/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                </a>              
               {% endif %}
+
             </div>
           {% endfor %}
         </div>
       {% endif %}
-    </div>
+    </div>        
 
   </div>
 
