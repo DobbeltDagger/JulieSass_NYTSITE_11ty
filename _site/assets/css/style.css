@@ -224,11 +224,12 @@ img.maxWidth {
 .workSingleWrapper .bigImg {
   max-width: 100%;
   height: auto;
+  margin-bottom: 2em;
 }
 .workSingleWrapperHorisontal {
   display: grid;
   grid-template-columns: 1fr;
-  grid-gap: 2em;
+  grid-gap: 0px; /* 2em; */
 }
 .workSingleWrapperHorisontal .bigImg {
   margin-bottom: 1em;
@@ -256,14 +257,13 @@ img.maxWidth {
   display: block;
   float: left;
   width: 100%;
-  border: 1px solid pink;
 }
 .galleryImg img {
   height: 130px;
   width: auto;
   display: block;
   float: left;
-  margin: 0px 1em 1em 0px;
+  margin: 0px 8px 8px 0px; /* 0px 1em 1em 0px; */
 }
 .galleryImg .txt {
   display: block;
@@ -271,8 +271,13 @@ img.maxWidth {
   width: 100%;
   padding: 0.25rem 0px 0px 0px;
 }
-
-
+/* lightbos */
+.galleryLightboxWrapper {
+  display: block;
+  float: left;
+  width: 100%;
+  margin-bottom: 2em;
+}
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 /* footer */
