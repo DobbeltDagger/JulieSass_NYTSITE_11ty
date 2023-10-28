@@ -117,9 +117,10 @@ p {
 }
 
 /* INLINE LINKS */
-a { text-decoration: none; color: tomato; outline: 0; }
+
+a { text-decoration: underline; color: rgba(0,0,0,.9); outline: 0; }
 a:active, a:focus { outline: 0; }
-a:hover { text-decoration: underline; outline: none; }
+a:hover { text-decoration: none; outline: none; }
 
 a img {
   border: 0px;
@@ -135,7 +136,6 @@ a img {
   top: 2.65em; /* 1em; */
   right: 0.8em;
   display: block;
-  /* float: right; */
   padding: 0px;
   margin: 0px; /* -0.5rem -0.375rem 0px 0px; */
   color: var(--text-color);
@@ -408,6 +408,7 @@ footer .SKlogo {
     padding: 0px;
     font-weight: 400;
     color: var(--text-color);
+    text-decoration: none;
   }
   ul.mobileNav li a:hover {
     text-decoration: none;
