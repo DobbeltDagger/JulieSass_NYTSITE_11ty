@@ -1,5 +1,6 @@
 ---
 title: 'POLITIKEN, presse'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'POLITIKEN, presse'
 thumbUrl: '/assets/images/library/thumbs/politiken_presse_2018.jpg'

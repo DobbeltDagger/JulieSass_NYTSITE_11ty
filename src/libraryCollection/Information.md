@@ -1,5 +1,6 @@
 ---
 title: 'Information'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Information'
 thumbUrl: '/assets/images/library/thumbs/Information.jpg'

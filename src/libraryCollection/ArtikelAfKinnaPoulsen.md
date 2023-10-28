@@ -1,5 +1,6 @@
 ---
 title: 'Artikel af Kinna Poulsen, Litografi, STEINPRENT'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Artikel af Kinna Poulsen, Litografi, STEINPRENT'
 thumbUrl: '/assets/images/library/thumbs/ArtikelAfKinnaPoulsen.jpg'

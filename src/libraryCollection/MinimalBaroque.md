@@ -1,5 +1,6 @@
 ---
 title: 'Minimal Baroque'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Minimal Baroque'
 thumbUrl: '/assets/images/library/thumbs/MinimalBaroque.jpg'

@@ -1,5 +1,6 @@
 ---
 title: 'Art Herning 2018'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Art Herning 2018'
 thumbUrl: '/assets/images/library/thumbs/artHerning2018.jpg'

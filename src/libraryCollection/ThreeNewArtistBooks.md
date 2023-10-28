@@ -1,5 +1,6 @@
 ---
 title: 'Three new artist-books by Julie Sass - Now at RSS Press'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Three new artist-books'
 thumbUrl: '/assets/images/library/thumbs/ThreeNewArtistBooks.jpg'

@@ -2,37 +2,77 @@
 
 {% block mainContent %}
 
-  <div class="workSingleWrapper">
+  {% if orientation !== "horisontal" %}
+    
+    <div class="workSingleWrapper">
 
-    <div>
-      <img src="/assets/images/archive/galleries/{{ galleryFolder }}/{{ imgUrl}}" />
-      {{ content | safe }}
+      <div>
+        <img src="/assets/images/archive/galleries/{{ galleryFolder }}/{{ imgUrl}}" class="bigImg"/>
+        {{ content | safe }}
+      </div>
+
+      <!-- lightbox -->
+      <div>
+        {% if gallery.length > 0 %}
+          <div class='galleryLightboxWrapper'>
+            {% for thumb in gallery %}
+
+              <div class="galleryImg">
+
+                {% if thumb.caption !== "" %}
+                  <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="gallery" data-title="{{ thumb.caption }}" title="{{ thumb.caption }}" alt="{{ thumb.caption }}">
+                    <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                  </a>
+                {% else %}
+                  <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="{{ title }}" data-title="{{ title }}" title="{{ title }}" alt="{{ title }}">
+                    <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                  </a>              
+                {% endif %}
+
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+
     </div>
 
-    <!-- lightbox -->
-    <div>
-      {% if gallery.length > 0 %}
-        <div class='galleryLightboxWrapper'>
-          {% for thumb in gallery %}
+  {% else %}
+    <div class="workSingleWrapperHorisontal">
 
-            <div class="galleryImg">
+      <div>
+        <img src="/assets/images/archive/galleries/{{ galleryFolder }}/{{ imgUrl}}" class="bigImg"/>
+        <!-- lightbox -->
+        {% if gallery.length > 0 %}
+          <div class='galleryLightboxWrapper'>
+            {% for thumb in gallery %}
 
-              {% if thumb.caption !== "" %}
-                <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="gallery" data-title="{{ thumb.caption }}" title="{{ thumb.caption }}" alt="{{ thumb.caption }}">
-                  <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
-                </a>
-              {% else %}
-                <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="{{ title }}" data-title="{{ title }}" title="{{ title }}" alt="{{ title }}">
-                  <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
-                </a>              
-              {% endif %}
+              <div class="galleryImg">
 
-            </div>
-          {% endfor %}
-        </div>
-      {% endif %}
-    </div>    
+                {% if thumb.caption !== "" %}
+                  <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="gallery" data-title="{{ thumb.caption }}" title="{{ thumb.caption }}" alt="{{ thumb.caption }}">
+                    <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                  </a>
+                {% else %}
+                  <a href="/assets/images/archive/galleries/{{ galleryFolder }}/{{ thumb.imgUrl }}" data-mediabox="{{ title }}" data-title="{{ title }}" title="{{ title }}" alt="{{ title }}">
+                    <img src="/assets/images/archive/galleries/{{ galleryFolder }}/thumbs/{{ thumb.imgUrl }}" alt="Image">
+                  </a>              
+                {% endif %}
 
-  </div>
+              </div>
+            {% endfor %}
+          </div>
+        {% endif %}        
+        
+      </div>
+
+      <!-- content -->
+      <div>
+        {{ content | safe }}
+      </div>
+        
+    </div>
+  {% endif %}
+
 
 {% endblock mainContent %}

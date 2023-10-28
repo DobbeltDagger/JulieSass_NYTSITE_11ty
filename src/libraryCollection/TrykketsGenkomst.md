@@ -1,5 +1,6 @@
 ---
 title: 'Trykkets genkomst (artikel Kunsten.nu)'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Trykkets genkomst (artikel Kunsten.nu)'
 thumbUrl: '/assets/images/library/thumbs/TrykketsGenkomst.jpg'

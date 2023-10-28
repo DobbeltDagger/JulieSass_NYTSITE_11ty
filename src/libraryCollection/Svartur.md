@@ -1,5 +1,6 @@
 ---
 title: 'Black Fog Rising Svartur mjørki í Steinprenti'
+orientation: "horisontal"
 permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Svartur mjørki í Steinprenti'
 thumbUrl: '/assets/images/library/thumbs/Svartur.jpg'
