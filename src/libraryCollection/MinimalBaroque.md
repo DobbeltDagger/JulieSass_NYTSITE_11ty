@@ -1,7 +1,7 @@
 ---
 title: 'Minimal Baroque'
 orientation: "horisontal"
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Minimal Baroque'
 thumbUrl: '/assets/images/library/thumbs/MinimalBaroque.jpg'
 imgUrl: "front.jpg"

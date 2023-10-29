@@ -1,7 +1,7 @@
 ---
 title: 'A Brief History of Abstraction'
 orientation: "horisontal"
-permalink: "/curating/{{ title | slugify }}/"
+permalink: "/Curating/{{ title | slugify }}/"
 shortTitle: 'A Brief History of Abstraction'
 thumbUrl: '/assets/images/curating/thumbs/BriefHistory.jpg'
 imgUrl: "front.jpg"

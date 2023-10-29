@@ -1,15 +1,11 @@
 ---
 title: 'Sort Guld'
-permalink: "/news/{{ title | slugify }}/"
+permalink: "/News/{{ title | slugify }}/"
 shortTitle: 'Sort Guld'
 imageUrl: '/assets/images/news/sortGuld.jpg'
-date: 2020-01-01
+date: 2023-01-01
 eleventyExcludeFromCollections: false
 ---
 
 
-      <h2>Sort Guld</h2>
-      <p>Lorem Ipsum</p>
-    </div>
-  </div>
-</div>
+<h2>Sort Guld/Black Gold, Byens Kro</h2>

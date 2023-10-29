@@ -1,6 +1,6 @@
 ---
 title: 'VOLUME RHYTHM MATTER dialogues'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'VOLUME RHYTHM'
 thumbUrl: '/assets/images/library/thumbs/VolumeRhythm.jpg'
 imgUrl: "front_litografi.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 'Abstrakt maleri med overraskelser af Lisbeth Bonde'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Abstrakt maleri'
 thumbUrl: '/assets/images/library/thumbs/AbstraktMaleri.jpg'
 imgUrl: "front.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 'Fysisk abstraktion'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Fysisk abstraktion'
 thumbUrl: '/assets/images/library/thumbs/FysiskAbstraktion.jpg'
 imgUrl: "front.jpg"

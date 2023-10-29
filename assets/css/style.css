@@ -179,6 +179,27 @@ img.maxWidth {
   max-width: 100%;
   height: auto;
 }
+img.halfWidth {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+}
+
+
+/* NEWS items */
+.newsItem,
+.newsItemVertical {
+  margin-bottom: 2em;
+}
+.newsItem img {
+  margin: 0 0 0.5em;
+}
+
+.newsItemVertical {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+}
 
 
 /* ************************************************************************** */
@@ -279,28 +300,6 @@ img.maxWidth {
   margin-bottom: 2em;
 }
 
-/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
-/* footer */
-
-footer {
-  margin: 4em 0px 2em 0px;
-  display: grid;
-  grid-template-columns: 20% 1fr 100px;
-  grid-gap: 0px;
-  padding: 1em 0px 2em 0px;
-  border-top: 1px dotted rgba(0,0,0,.2);
-}
-footer > div:nth-child(3) {
-  text-align: right;
-}
-footer .SKlogo {
-  width: 170px;
-  height: auto;
-  line-height: normal;
-  opacity: .5;
-  display: inline-block;
-  padding: 0 0 0 2px;
-}
 
 
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
@@ -417,6 +416,10 @@ footer .SKlogo {
   }
 
 
+  .workSingleWrapper {
+    grid-template-columns: 1fr; /* 1fr 1fr; */
+  }
+
   .bioWrapper {
     display: grid;
     grid-template-columns: 1fr; /* 3fr 2fr; */
@@ -435,13 +438,6 @@ footer .SKlogo {
   .CVWrapper p {
     max-width: none; /* 560px; */
   }
-  /*
-  .CVWrapper h2 {
-    font-size: 1.75rem;
-    line-height: 1.05em;
-    margin-bottom: 1rem;
-  }
-  */
   .CVWrapper h2 {
     margin: 0 0 .8em;
     font-weight: 400;
@@ -449,7 +445,6 @@ footer .SKlogo {
     letter-spacing: 1px;
     font-size: 13px;
   }
-
   .CVWrapper .YearRow {
     display: block;
     width: 100%;
@@ -476,7 +471,6 @@ footer .SKlogo {
   .CVWrapper .YearRow .right p {
     margin-bottom: 0px;
   }
-
   .CVWrapper .YearRow:last-of-type {
     margin-bottom: 2rem;
   }  
@@ -487,6 +481,28 @@ footer .SKlogo {
   /* for headers in right col */
   .headerSpaceBottom {
     margin: 0px 0px 1.75rem 0px; 
+  }
+
+
+  /* footer */
+  footer {
+    margin: 4em 0px 2em 0px;
+    display: grid;
+    grid-template-columns: 1fr; /* 20% 1fr 100px; */
+    grid-gap: 0px;
+    padding: 1em 1em 2em 1em; /* 1em 0px 2em 0px; */
+    border-top: 1px dotted rgba(0,0,0,.2);
+  }
+  footer > div:nth-child(3) {
+    text-align: left;
+  }
+  footer .SKlogo {
+    width: 170px;
+    height: auto;
+    line-height: normal;
+    opacity: .5;
+    display: inline-block;
+    padding: 0 0 0 2px;
   }  
 }
 
@@ -503,9 +519,20 @@ footer .SKlogo {
 /* ***************************************************** */
 /* BREAK MEDIUM */
 
-@media (min-width: 800px) {
+@media (min-width: 600px) {
 
+  .workSingleWrapper {
+    grid-template-columns: 1fr 1fr; /* 1fr 1fr; */
+  }
 
+  footer {
+    grid-template-columns: 20% 1fr 100px;
+    padding: 1em 0px 2em 0px;
+  }
+  footer > div:nth-child(3) {
+    text-align: right;
+    padding-right: 1em;
+  }
 
 }
 
@@ -537,12 +564,16 @@ footer .SKlogo {
 
 
   #pageWrapper {
-    grid-template-columns: 20% 1fr;
+    grid-template-columns: 27.5% 1fr; /* 20% 1fr; */
     min-height: 400px;
   }
+  footer {
+    grid-template-columns: 27.5% 1fr 100px;
+    padding-right: 1em;
+  }  
 
   #pageWrapper > * {
-    padding: 58px 0px 0px 0px;
+    padding: 58px 1em 0px 0px;
   }
 
   #logo {
@@ -652,6 +683,15 @@ footer .SKlogo {
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 /* 4. */
 @media screen and (min-width: 1400px) {
+
+
+  #pageWrapper {
+    grid-template-columns: 20% 1fr; /* 20% 1fr; */
+  }
+  footer {
+    grid-template-columns: 20% 1fr 100px;
+  }  
+
 
 }
 

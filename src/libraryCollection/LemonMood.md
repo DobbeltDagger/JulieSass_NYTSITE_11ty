@@ -1,6 +1,6 @@
 ---
 title: 'LEMON MOOD'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'LEMON MOOD'
 thumbUrl: '/assets/images/library/thumbs/lemonmood1.jpg'
 imgUrl: "lemonmood1.jpg"

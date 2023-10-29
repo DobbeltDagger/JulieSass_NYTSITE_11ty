@@ -82,24 +82,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("cvResidencies", function(collection) {
     return collection.getFilteredByTag("residency");
   });
-  /*
-  eleventyConfig.addCollection("cvDobbeltDagger", function(collection) {
-    return collection.getFilteredByTag("dobbeltdagger");
-  });  
-  eleventyConfig.addCollection("cvNotNull", function(collection) {
-    return collection.getFilteredByTag("notnull");
-  });
-  eleventyConfig.addCollection("cvCurating", function(collection) {
-    return collection.getFilteredByTag("curating");
-  });
-  
-  eleventyConfig.addCollection("cvGrants", function(collection) {
-    return collection.getFilteredByTag("grants");
-  });
-  eleventyConfig.addCollection("cvOther", function(collection) {
-    return collection.getFilteredByTag("other");
-  });
-  */
 
   
   return {

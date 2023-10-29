@@ -1,7 +1,7 @@
 ---
 title: 'Interview, Black Fog Rising'
 orientation: "horisontal"
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Interview, Black Fog Rising'
 thumbUrl: '/assets/images/library/thumbs/interviewBlackFogRising.jpg'
 imgUrl: "interview_setup.jpg"

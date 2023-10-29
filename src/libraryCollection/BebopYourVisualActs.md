@@ -1,6 +1,6 @@
 ---
 title: 'Be-bop Your Visual Acts (Shared Space)'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Be-bop Your Visual Acts'
 thumbUrl: '/assets/images/library/thumbs/BebopYourVisualActs.jpg'
 imgUrl: "opslag_i_wonderland_2015_a.jpg"

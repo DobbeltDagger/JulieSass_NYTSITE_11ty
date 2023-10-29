@@ -8,12 +8,24 @@
 
   <div id='newsOverviewWrapper'>
     {% for item in collections.news | reverse %}
-      <div class="newsItem">
-        <div class='image'>
-          <img src='{{ item.data.imageUrl }}' class='maxWidth' alt='{{ item.data.title }}' title='{{ item.data.title }}' />
+      
+      <!-- check for orientation -->
+      {% if item.data.orientation !== "vertical" %}
+        <div class="newsItem">
+          <div class='image'>
+            <img src='{{ item.data.imageUrl }}' class='maxWidth' alt='{{ item.data.title }}' title='{{ item.data.title }}' />
+          </div>
+          <div class="txt">{{ item.content | trim | safe }}</div>
         </div>
-        <div class='title'>{{ item.data.shortTitle }}</div>
-      </div>
+      {% else %}
+        <div class="newsItemVertical">
+          <div class='image'>
+            <img src='{{ item.data.imageUrl }}' class='maxWidth' alt='{{ item.data.title }}' title='{{ item.data.title }}' />
+          </div>
+          <div class="txt">{{ item.content | trim | safe }}</div>
+        </div>
+      {% endif %}
+      
     {% endfor %}
   </div>
 

@@ -1,6 +1,6 @@
 ---
 title: 'Steinprint 2017'
-permalink: "/library/{{ title | slugify }}/"
+permalink: "/Library/{{ title | slugify }}/"
 shortTitle: 'Steinprint 2017'
 thumbUrl: '/assets/images/library/thumbs/Steinprint2017.jpg'
 imgUrl: "front.jpg"
