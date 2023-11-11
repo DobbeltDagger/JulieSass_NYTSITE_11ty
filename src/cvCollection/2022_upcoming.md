@@ -5,7 +5,7 @@ tags:
   - cv
   - upcoming
 date: 2022-09-30
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 Solo show, Fiendish Plots, Nebraska, US<br/>
