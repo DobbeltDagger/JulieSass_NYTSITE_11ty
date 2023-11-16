@@ -7,7 +7,7 @@ imgUrl: "front.jpg"
 galleryFolder: "YellowLight2021"
 gallery:
   - { imgUrl: "1.jpg", caption: "Yellow Light, 2021. Maleri, forskellige medier på bomuld 60 x 50cm" }
-date: 2022-12-11
+date: 2021-12-11
 eleventyExcludeFromCollections: false
 ---
 

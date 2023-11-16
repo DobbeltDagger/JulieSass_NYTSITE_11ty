@@ -27,7 +27,7 @@ gallery:
   - { imgUrl: "18.jpg", caption: "" }
   - { imgUrl: "19.jpg", caption: "" }
   - { imgUrl: "20.jpg", caption: "" }
-date: 2022-12-09
+date: 2020-12-09
 eleventyExcludeFromCollections: false
 ---
 

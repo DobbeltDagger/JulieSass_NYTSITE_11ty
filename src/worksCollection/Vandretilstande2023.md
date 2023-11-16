@@ -24,20 +24,20 @@ gallery:
   - { imgUrl: "15.jpg", caption: "" }
   - { imgUrl: "16.jpg", caption: "" }
   - { imgUrl: "17.jpg", caption: "" }
+  - { imgUrl: "22.jpg", caption: "Bord med bøger" }
   - { imgUrl: "18.jpg", caption: "" }
   - { imgUrl: "19.jpg", caption: "" }
   - { imgUrl: "20.jpg", caption: "" }
   - { imgUrl: "21.jpg", caption: "" }
-  - { imgUrl: "22.jpg", caption: "" }
-  - { imgUrl: "23.jpg", caption: "" }
-  - { imgUrl: "24.jpg", caption: "" }
-  - { imgUrl: "25.jpg", caption: "" }
-  - { imgUrl: "26.jpg", caption: "" }
-  - { imgUrl: "27.jpg", caption: "" }
+  - { imgUrl: "23.jpg", caption: "Heliografi, lito, 2023" }
+  - { imgUrl: "24.jpg", caption: "Heliografi, litografi, 2022" }
+  - { imgUrl: "25.jpg", caption: "Heliografi, litografi, 2023" }
+  - { imgUrl: "26.jpg", caption: "Heliografi, litografi, på grå, 2023" }
+  - { imgUrl: "27.jpg", caption: "Heliografi, litografi, Steinprent, 2022" }
   # - { imgUrl: "28.jpg", caption: "" }
-  - { imgUrl: "29.jpg", caption: "" }
+  - { imgUrl: "29.jpg", caption: "Painting, printed on fabric 180 x 157cm, 2022 nr 3" }
   - { imgUrl: "20.jpg", caption: "" }
-  - { imgUrl: "31.jpg", caption: "" }
+  - { imgUrl: "31.jpg", caption: "Saertryk, heliografi på sort gampi, 2023. Steinprent" }
 date: 2023-12-07
 eleventyExcludeFromCollections: false
 ---

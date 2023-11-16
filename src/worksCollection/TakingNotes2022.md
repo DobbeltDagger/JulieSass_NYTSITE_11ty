@@ -13,7 +13,7 @@ gallery:
  - { imgUrl: "5.jpg", caption: "" }
  - { imgUrl: "6.jpg", caption: "" }
  - { imgUrl: "7.jpg", caption: "" }
-date: 2023-12-24
+date: 2022-12-01
 eleventyExcludeFromCollections: false
 ---
 
