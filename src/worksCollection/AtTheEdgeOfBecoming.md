@@ -16,16 +16,16 @@ gallery:
   - { imgUrl: "7.jpg", caption: "" }
   - { imgUrl: "8.jpg", caption: "" }
   - { imgUrl: "9.jpg", caption: "" }
-  - { imgUrl: "10.jpg", caption: "" }
-  - { imgUrl: "11.jpg", caption: "" }
-  - { imgUrl: "12.jpg", caption: "" }
-  - { imgUrl: "13.jpg", caption: "" }
-  - { imgUrl: "14.jpg", caption: "" }
-  - { imgUrl: "15.jpg", caption: "" }
-  - { imgUrl: "16.jpg", caption: "" }
-  - { imgUrl: "17.jpg", caption: "" }
-  - { imgUrl: "18.jpg", caption: "" }
-  - { imgUrl: "19.jpg", caption: "" }
+  - { imgUrl: "10.jpg", caption: "70 x 50cm Maleri, 2021" }
+  - { imgUrl: "11.jpg", caption: "At the edge of becoming - installationshot, 2023" }
+  - { imgUrl: "12.jpg", caption: "At the edge of becoming - installationshot, 2023" }
+  - { imgUrl: "13.jpg", caption: "At the edge of becoming - installationshot, 2023" }
+  - { imgUrl: "14.jpg", caption: "At the edge of becoming - installationshot, 2023" }
+  - { imgUrl: "15.jpg", caption: "At the edge of becoming - installationshot, 2023" }
+  - { imgUrl: "16.jpg", caption: "Lille Talisman 50 x 40cm" }
+  - { imgUrl: "17.jpg", caption: "Maleri. Earth, gesture, 2023" }
+  - { imgUrl: "18.jpg", caption: "Maleri, Flow, and Its Other, 2023, 40 x 50cm" }
+  - { imgUrl: "19.jpg", caption: "PTG Vision. 70 x 50cm, 2021. mx media." }
 date: 2023-12-07
 eleventyExcludeFromCollections: false
 ---
