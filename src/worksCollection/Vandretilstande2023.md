@@ -36,7 +36,7 @@ gallery:
   - { imgUrl: "27.jpg", caption: "Heliografi, litografi, Steinprent, 2022" }
   # - { imgUrl: "28.jpg", caption: "" }
   - { imgUrl: "29.jpg", caption: "Painting, printed on fabric 180 x 157cm, 2022 nr 3" }
-  - { imgUrl: "20.jpg", caption: "" }
+  - { imgUrl: "30.jpg", caption: "R 160 x 140 cm maleri, 2022" }
   - { imgUrl: "31.jpg", caption: "Saertryk, heliografi på sort gampi, 2023. Steinprent" }
 date: 2023-12-07
 eleventyExcludeFromCollections: false
