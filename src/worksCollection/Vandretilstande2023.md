@@ -6,6 +6,7 @@ thumbUrl: '/assets/images/works/thumbs/Vandretilstande2023.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "Vandretilstande2023"
 gallery:
+  - { imgUrl: "0.jpg", caption: "" }
   - { imgUrl: "1.jpg", caption: "" }
   - { imgUrl: "2.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }

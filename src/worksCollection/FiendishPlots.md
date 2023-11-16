@@ -8,6 +8,7 @@ galleryFolder: "FiendishPlots"
 gallery:
   # - { imgUrl: "1.jpg", caption: "Present Image, Painting 2019, 60 x 50 cm, mixed media" }
   # - { imgUrl: "sewn_image_2019-2020_2.2m_x_2.4m.jpg", caption: "SEWN IMAGE, 2019-2020, Mixed Media, 215 x 225cm" }
+  - { imgUrl: "0.jpg", caption: "" }
   - { imgUrl: "1.jpg", caption: "" }
   - { imgUrl: "2.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }
