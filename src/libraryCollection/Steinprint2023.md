@@ -16,5 +16,5 @@ eleventyExcludeFromCollections: false
 
 <div class="Txt">
   <h2>Steinprint 2023</h2>
-  <p>lorem</p>
+  <!-- <p>lorem</p> -->
 </div>
