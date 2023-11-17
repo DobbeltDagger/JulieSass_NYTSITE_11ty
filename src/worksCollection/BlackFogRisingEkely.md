@@ -20,5 +20,5 @@ eleventyExcludeFromCollections: false
 ---
 
 
-<h2>Black Fog Rising, Ekely</h2>
-<p>Lorem Ipsum</p>
+<h2>Black Fog Rising, Ekely 2019</h2>
+<!-- <p>Lorem Ipsum</p> -->
