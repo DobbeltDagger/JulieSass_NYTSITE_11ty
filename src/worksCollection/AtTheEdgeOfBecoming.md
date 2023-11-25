@@ -26,6 +26,7 @@ gallery:
   - { imgUrl: "17.jpg", caption: "Maleri. Earth, gesture, 2023" }
   - { imgUrl: "18.jpg", caption: "Maleri, Flow, and Its Other, 2023, 40 x 50cm" }
   - { imgUrl: "19.jpg", caption: "PTG Vision. 70 x 50cm, 2021. mx media." }
+  - { imgUrl: "20.jpg", caption: "Work on paper. Lg.mx media. ca 106 x 86cm" }
 date: 2023-12-07
 eleventyExcludeFromCollections: false
 ---
