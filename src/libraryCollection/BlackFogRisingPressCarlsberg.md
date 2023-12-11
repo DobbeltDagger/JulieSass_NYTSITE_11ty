@@ -6,6 +6,8 @@ thumbUrl: '/assets/images/library/thumbs/BlackFogRisingCarlsberg.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "BlackFogRisingCarlsberg"
 gallery:
+ - { imgUrl: "6.jpg", caption: "Black Fog Rising Book 2019" }
+ # - { imgUrl: "7.jpg", caption: "" }
 tags:
   - pressLibrary
 date: 2023-12-10

@@ -26,7 +26,7 @@ eleventyExcludeFromCollections: false
 
 <div class="Txt">
   <h2>SORT GULD // BLACK GOLD</h2>
-  <p>PresseMeddelelse:<br/>
+  <p>Pressemeddelelse:<br/>
   Nye værker af Julie Sass kan ses indtil den 28/3, 2023<br/>
   Fernisering den 15/2 2023. Byens Kro, Møntergade 8, 1116 København</p>
 

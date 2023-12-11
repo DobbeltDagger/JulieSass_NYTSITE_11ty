@@ -19,4 +19,4 @@ eleventyExcludeFromCollections: false
 
 
 <h2>Taking Notes 2022</h2>
-<p>Lorem Ipsum</p>
+<!-- <p>Lorem Ipsum</p> -->

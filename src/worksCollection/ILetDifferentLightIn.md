@@ -11,8 +11,8 @@ gallery:
   - { imgUrl: "3.jpg", caption: "" }
   - { imgUrl: "4.jpg", caption: "" }
   - { imgUrl: "5.jpg", caption: "" }
-  - { imgUrl: "6.jpg", caption: "Black Fog Rising Book 2019" }
-  - { imgUrl: "7.jpg", caption: "" }
+  # - { imgUrl: "6.jpg", caption: "Black Fog Rising Book 2019" }
+  # - { imgUrl: "7.jpg", caption: "" }
   - { imgUrl: "8.jpg", caption: "Maleri 90 x 70cm, 2022 mx media. I got different light nr 1" }
   - { imgUrl: "9.jpg", caption: "Maleri 90 x 70cm, 2022 mx media. I got different light nr 2" }
   - { imgUrl: "10.jpg", caption: "Stor tegning, 2022 mx media. I got different light nr 1" }
