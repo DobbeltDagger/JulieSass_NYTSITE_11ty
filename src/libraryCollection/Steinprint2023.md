@@ -1,7 +1,7 @@
 ---
 title: 'Steinprint 2023'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Steinprint 2023'
 thumbUrl: '/assets/images/library/thumbs/Steinprint2023.jpg'
 imgUrl: "front.jpg"

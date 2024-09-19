@@ -1,6 +1,6 @@
 ---
 title: 'Black Fog Rising Carlsberg'
-permalink: "/Library/{{ title | slugify }}2/"
+permalink: "/library/{{ title | slugify }}2/"
 shortTitle: 'Black Fog Rising'
 thumbUrl: '/assets/images/library/thumbs/BlackFogRisingCarlsberg.jpg'
 imgUrl: "front.jpg"

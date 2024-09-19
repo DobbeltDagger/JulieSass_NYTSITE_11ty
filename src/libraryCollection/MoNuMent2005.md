@@ -1,6 +1,6 @@
 ---
 title: 'Mo Nu Ment 2005'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Mo Nu Ment 2005'
 thumbUrl: '/assets/images/library/thumbs/monument_frontpage.jpg'
 imgUrl: "monument_frontpage.jpg"

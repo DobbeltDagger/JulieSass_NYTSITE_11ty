@@ -1,6 +1,6 @@
 ---
 title: 'At the Edge of Becoming'
-permalink: "/Library/{{ title | slugify }}2/"
+permalink: "/library/{{ title | slugify }}2/"
 shortTitle: 'At the Edge of Becoming'
 thumbUrl: '/assets/images/library/thumbs/AtTheEdgeOfBecoming.jpg'
 imgUrl: "front.jpg"

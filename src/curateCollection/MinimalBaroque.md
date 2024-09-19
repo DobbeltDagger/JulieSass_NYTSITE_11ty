@@ -1,6 +1,6 @@
 ---
 title: 'Minimal Baroque'
-permalink: "/Curating/{{ title | slugify }}/"
+permalink: "/curating/{{ title | slugify }}/"
 shortTitle: 'Minimal Baroque'
 thumbUrl: '/assets/images/curating/thumbs/minimalBarok.jpg'
 imgUrl: "front.jpg"

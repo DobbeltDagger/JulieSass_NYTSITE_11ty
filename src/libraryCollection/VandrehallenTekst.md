@@ -1,7 +1,7 @@
 ---
 title: 'Vandretilstande. Udstillingstekst af Bolette Skibild'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Vandretilstande 2023'
 thumbUrl: '/assets/images/library/thumbs/Vandretilstande2023Tekst.png'
 imgUrl: "front2.png"

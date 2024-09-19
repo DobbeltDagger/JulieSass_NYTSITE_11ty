@@ -1,7 +1,7 @@
 ---
 title: 'Art Herning 2018'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Art Herning 2018'
 thumbUrl: '/assets/images/library/thumbs/artHerning2018.jpg'
 imgUrl: "printersproof.jpg"

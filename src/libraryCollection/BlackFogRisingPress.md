@@ -1,6 +1,6 @@
 ---
 title: 'Black Fog Rising'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Black Fog Rising'
 thumbUrl: '/assets/images/library/thumbs/BlackFogRisingInterview.jpg'
 imgUrl: "front.jpg"

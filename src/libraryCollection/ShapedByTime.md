@@ -1,6 +1,6 @@
 ---
 title: 'Shaped By Time'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Shaped By Time'
 thumbUrl: '/assets/images/library/thumbs/shaped_by_time_aug_2012.jpg'
 imgUrl: "shaped_by_time_aug_2012.jpg"

@@ -1,7 +1,7 @@
 ---
 title: 'Trykkets genkomst (artikel Kunsten.nu)'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Trykkets genkomst (artikel Kunsten.nu)'
 thumbUrl: '/assets/images/library/thumbs/TrykketsGenkomst.jpg'
 imgUrl: "js_puster_lito_2015.jpg"

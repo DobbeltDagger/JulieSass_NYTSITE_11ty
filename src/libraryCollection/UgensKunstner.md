@@ -1,6 +1,6 @@
 ---
 title: 'Ugens kunstner'
-permalink: "/Library/{{ title | slugify }}2/"
+permalink: "/library/{{ title | slugify }}2/"
 shortTitle: 'Ugens kunstner'
 thumbUrl: '/assets/images/library/thumbs/UgensKunstner.jpg'
 imgUrl: "front.jpg"

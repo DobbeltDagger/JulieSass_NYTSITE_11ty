@@ -1,6 +1,6 @@
 ---
 title: 'SKABT AF TIDEN - Forhistorien og Kunsten'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'SKABT AF TIDEN'
 thumbUrl: '/assets/images/library/thumbs/skabt_plakat_web_e.jpg'
 imgUrl: "front.jpg"

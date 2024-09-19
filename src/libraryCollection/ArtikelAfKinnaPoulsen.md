@@ -1,7 +1,7 @@
 ---
 title: 'Artikel af Kinna Poulsen, Litografi, STEINPRENT'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Artikel af Kinna Poulsen, Litografi, STEINPRENT'
 thumbUrl: '/assets/images/library/thumbs/ArtikelAfKinnaPoulsen.jpg'
 imgUrl: "puster_lito_2015.jpg"

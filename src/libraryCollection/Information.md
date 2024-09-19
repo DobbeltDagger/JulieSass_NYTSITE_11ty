@@ -1,7 +1,7 @@
 ---
 title: 'Information'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Information'
 thumbUrl: '/assets/images/library/thumbs/Information.jpg'
 imgUrl: "rune_gade_information_dec_2018_3.jpg"

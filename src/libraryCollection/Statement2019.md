@@ -1,6 +1,6 @@
 ---
 title: 'Statement2019'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Statement2019'
 thumbUrl: '/assets/images/library/thumbs/Statement2019.jpg'
 imgUrl: ""

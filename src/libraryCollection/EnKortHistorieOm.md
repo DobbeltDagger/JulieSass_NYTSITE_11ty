@@ -1,6 +1,6 @@
 ---
 title: 'En kort historie om abstraktion / A brief history of abstraction'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'En kort historie'
 thumbUrl: '/assets/images/library/thumbs/EnKortHistorie.jpg'
 imgUrl: "front.jpg"

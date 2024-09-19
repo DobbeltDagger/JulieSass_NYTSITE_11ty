@@ -1,7 +1,7 @@
 ---
 title: 'IMAGE: temporary constellation'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'IMAGE: temporary constellation'
 thumbUrl: '/assets/images/library/thumbs/ImageTemporaryConstellation.jpg'
 imgUrl: "omslag.jpg"

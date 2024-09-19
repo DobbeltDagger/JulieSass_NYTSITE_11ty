@@ -1,7 +1,7 @@
 ---
 title: 'Skitse til en drøm'
 orientation: "vertical"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Skitse til en drøm'
 thumbUrl: '/assets/images/library/thumbs/SkitseTilEnDrøm.jpg'
 imgUrl: "front.jpg"

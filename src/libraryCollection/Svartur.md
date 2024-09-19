@@ -1,7 +1,7 @@
 ---
 title: 'Black Fog Rising Svartur mjørki í Steinprenti'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Svartur mjørki í Steinprenti'
 thumbUrl: '/assets/images/library/thumbs/Svartur.jpg'
 imgUrl: "foggy-ocean-2508773.jpg"

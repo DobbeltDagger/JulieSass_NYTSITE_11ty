@@ -1,7 +1,7 @@
 ---
 title: 'Vandretilstande 2023'
 orientation: "vertical"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Vandretilstande 2023'
 thumbUrl: '/assets/images/library/thumbs/Vandretilstande2023.jpg'
 imgUrl: "front.jpg"

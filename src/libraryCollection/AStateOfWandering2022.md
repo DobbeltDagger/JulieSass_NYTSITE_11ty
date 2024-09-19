@@ -1,6 +1,6 @@
 ---
 title: 'A State of Wandering / Vandretilstande 2022'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'A State of Wandering'
 thumbUrl: '/assets/images/library/thumbs/AStateOfWandering.jpg'
 imgUrl: "front.jpg"

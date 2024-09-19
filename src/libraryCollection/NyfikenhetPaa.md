@@ -1,6 +1,6 @@
 ---
 title: 'Nyfikenhet på material och uttryck'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Nyfikenhet på'
 thumbUrl: '/assets/images/library/thumbs/NyfikenhetPaa.jpg'
 imgUrl: "front.jpg"

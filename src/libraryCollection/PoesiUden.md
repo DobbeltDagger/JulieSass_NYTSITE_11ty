@@ -1,6 +1,6 @@
 ---
 title: 'Poesi Uden'
-permalink: "/Library/{{ title | slugify }}2/"
+permalink: "/library/{{ title | slugify }}2/"
 shortTitle: 'Poesi Uden'
 thumbUrl: '/assets/images/library/thumbs/PoesiUden.jpg'
 imgUrl: "front.jpg"

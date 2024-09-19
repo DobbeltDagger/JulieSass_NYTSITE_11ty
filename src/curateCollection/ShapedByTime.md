@@ -1,6 +1,6 @@
 ---
 title: 'Shaped By Time'
-permalink: "/Curating/{{ title | slugify }}/"
+permalink: "/curating/{{ title | slugify }}/"
 shortTitle: 'Shaped By Time'
 thumbUrl: '/assets/images/curating/thumbs/shapedByTime.jpg'
 imgUrl: "front.jpg"

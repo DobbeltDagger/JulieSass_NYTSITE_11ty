@@ -1,6 +1,6 @@
 ---
 title: 'Liv i abstraktionens hus'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Liv i abstraktionens'
 thumbUrl: '/assets/images/library/thumbs/LivIAbstraktionens.jpg'
 imgUrl: "front.jpg"

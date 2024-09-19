@@ -1,7 +1,7 @@
 ---
 title: 'Sten under fornyet pres (artikel, Kunsten.nu)'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Sten under fornyet pres'
 thumbUrl: '/assets/images/library/thumbs/stenUnderFornyetPres.jpg'
 imgUrl: "front.jpg"

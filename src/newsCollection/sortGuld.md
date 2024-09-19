@@ -1,6 +1,6 @@
 ---
 title: 'Sort Guld'
-permalink: "/News/{{ title | slugify }}/"
+permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Sort Guld'
 imageUrl: '/assets/images/news/sortGuld.jpg'
 date: 2023-01-01

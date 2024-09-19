@@ -1,6 +1,6 @@
 ---
 title: 'Julie Sass: Be-Bop'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Julie Sass: Be-Bop'
 thumbUrl: '/assets/images/library/thumbs/JulieSassBeBop.jpg'
 imgUrl: "front.jpg"

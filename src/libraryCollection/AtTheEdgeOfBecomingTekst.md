@@ -1,7 +1,7 @@
 ---
 title: 'At The Edge of Becoming'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'At The Edge'
 thumbUrl: '/assets/images/library/thumbs/AtTheEdge.png'
 imgUrl: "front.png"

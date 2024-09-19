@@ -1,6 +1,6 @@
 ---
 title: 'At the Edge of Becoming Listaportal'
-permalink: "/Library/{{ title | slugify }}2/"
+permalink: "/library/{{ title | slugify }}2/"
 shortTitle: 'At the Edge..., Listaportal'
 thumbUrl: '/assets/images/library/thumbs/AtTheEdgeOfBecomingListaportal.jpg'
 imgUrl: "front.jpg"

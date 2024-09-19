@@ -1,7 +1,7 @@
 ---
 title: 'POLITIKEN, presse'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'POLITIKEN, presse'
 thumbUrl: '/assets/images/library/thumbs/politiken_presse_2018.jpg'
 imgUrl: "politiken_presse_2018.jpg"

@@ -1,7 +1,7 @@
 ---
 title: 'Sort Guld/ Black Gold'
 orientation: "vertical"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Sort Guld/ Black Gold'
 thumbUrl: '/assets/images/library/thumbs/SortGuldBlackGold.jpg'
 imgUrl: "front.jpg"

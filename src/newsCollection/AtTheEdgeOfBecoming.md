@@ -1,6 +1,6 @@
 ---
 title: 'At The Edge Of Becoming'
-permalink: "/News/{{ title | slugify }}/"
+permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'At The Edge Of Becoming'
 imageUrl: '/assets/images/news/installation.jpg'
 date: 2023-01-01

@@ -1,6 +1,6 @@
 ---
 title: 'JS'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'JS'
 thumbUrl: '/assets/images/library/thumbs/js_front_r_2012.jpg'
 imgUrl: "front.jpg"

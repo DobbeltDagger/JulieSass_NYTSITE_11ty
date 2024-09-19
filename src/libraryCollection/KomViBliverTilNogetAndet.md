@@ -1,6 +1,6 @@
 ---
 title: 'Kom vi bliver til noget andet'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Kom vi bliver til noget andet'
 thumbUrl: '/assets/images/library/thumbs/KomViBliverTilNogetAndet.jpg'
 imgUrl: "front.jpg"

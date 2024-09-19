@@ -1,6 +1,6 @@
 ---
 title: 'Måleri i förändring // Painting in Transformation, Vikingsberg, 2001'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Måleri i förändring'
 thumbUrl: '/assets/images/library/thumbs/painting-in-transformation-vikingsberg-2001.jpg'
 imgUrl: "front.jpg"

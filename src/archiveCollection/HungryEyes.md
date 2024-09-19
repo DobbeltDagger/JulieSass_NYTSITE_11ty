@@ -1,6 +1,6 @@
 ---
 title: 'Hungry Eyes, Halifax, Canada, 2002'
-permalink: "/Archive/{{ title | slugify }}/"
+permalink: "/archive/{{ title | slugify }}/"
 shortTitle: 'Hungry Eyes, Halifax'
 thumbUrl: '/assets/images/archive/hungryeyes_skitse-til-maleri-i-tre-dele.jpg'
 imgUrl: "hungryeyes_skitse-til-maleri-i-tre-dele.jpg"

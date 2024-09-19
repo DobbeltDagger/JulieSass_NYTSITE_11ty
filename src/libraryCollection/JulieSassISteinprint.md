@@ -1,6 +1,6 @@
 ---
 title: 'Julie Sass i Steinprint'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'Julie Sass i Steinprint'
 thumbUrl: '/assets/images/library/thumbs/JulieSassISteinprint.jpg'
 imgUrl: "steinprint.jpg"

@@ -1,6 +1,6 @@
 ---
 title: 'JS II'
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'JS II'
 thumbUrl: '/assets/images/library/thumbs/julie_sassii.jpg'
 imgUrl: "front.jpg"

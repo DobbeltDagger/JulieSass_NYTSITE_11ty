@@ -1,7 +1,7 @@
 ---
 title: 'I Let Different Light In, Tórshavn'
 orientation: "horisontal"
-permalink: "/Library/{{ title | slugify }}/"
+permalink: "/library/{{ title | slugify }}/"
 shortTitle: 'I Let Different Light In, Tórshavn'
 thumbUrl: '/assets/images/library/thumbs/ILetDifferentLightIn.jpg'
 imgUrl: "front.jpg"
