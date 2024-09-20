@@ -14,4 +14,4 @@ eleventyExcludeFromCollections: false
 
 
 <h2>Abstrakt maleri med overraskelser af Lisbeth Bonde</h2>
-<p>Lorem Ipsum</p>
+<p>Opdateres ...</p>
