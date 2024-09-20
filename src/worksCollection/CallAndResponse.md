@@ -2,8 +2,8 @@
 title: 'Call & Response'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Call & Response'
-thumbUrl: '/assets/images/works/thumbs/GrafiskeForbindelser.jpg'
-imgUrl: "ikon_lille_lito_2015_ml.jpg"
+thumbUrl: '/assets/images/works/thumbs/CallAndResponse.jpg'
+imgUrl: "front.jpg"
 galleryFolder: "CallAndResponse"
 gallery:
   - { imgUrl: "17.jpg", caption: "" }
@@ -21,7 +21,7 @@ gallery:
   - { imgUrl: "5.jpg", caption: "" }
   - { imgUrl: "4.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }
-  - { imgUrl: "2.jpg", caption: "" }
+  # - { imgUrl: "2.jpg", caption: "" }
   - { imgUrl: "1.jpg", caption: "" }
 date: 2024-09-20
 eleventyExcludeFromCollections: false
