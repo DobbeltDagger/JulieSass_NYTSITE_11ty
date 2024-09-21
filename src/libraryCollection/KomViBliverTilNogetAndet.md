@@ -1,7 +1,7 @@
 ---
 title: 'Kom vi bliver til noget andet'
 permalink: "/library/{{ title | slugify }}/"
-shortTitle: 'Kom vi bliver til noget andet'
+shortTitle: 'Kom vi bliver til ...'
 thumbUrl: '/assets/images/library/thumbs/KomViBliverTilNogetAndet.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "KomViBliverTilNogetAndet"
