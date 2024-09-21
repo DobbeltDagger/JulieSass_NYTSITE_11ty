@@ -1,26 +1,25 @@
 ---
-title: 'Intensiteter'
-permalink: "/library/{{ title | slugify }}2/"
-shortTitle: 'Intensiteter'
-thumbUrl: '/assets/images/library/thumbs/Intensiteter.jpg'
+title: 'Mandala 2024'
+permalink: "/work/{{ title | slugify }}/"
+shortTitle: 'Mandala'
+thumbUrl: '/assets/images/works/thumbs/Mandala.jpg'
 imgUrl: "front.jpg"
-galleryFolder: "Intensiteter"
+galleryFolder: "Mandala2024"
 gallery:
+  - { imgUrl: "8.jpg", caption: "" }
   - { imgUrl: "7.jpg", caption: "" }
   - { imgUrl: "6.jpg", caption: "" }
-  # - { imgUrl: "5.jpg", caption: "" }
+  - { imgUrl: "5.jpg", caption: "" }
   - { imgUrl: "4.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }
   - { imgUrl: "2.jpg", caption: "" }
   - { imgUrl: "1.jpg", caption: "" }
-tags:
-  - pressLibrary
-date: 2024-01-01
+date: 2024-09-20
 eleventyExcludeFromCollections: false
 ---
 
 
 <div class="Txt">
-  <h2>Intensiteter</h2>
-  <p>.....</p>
+  <h2>Mandala</h2>
+  <p>XXXX</p>
 </div>
