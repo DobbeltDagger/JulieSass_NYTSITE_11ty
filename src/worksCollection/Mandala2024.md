@@ -2,7 +2,7 @@
 title: 'Mandala 2024'
 permalink: "/work/{{ title | slugify }}/"
 shortTitle: 'Mandala'
-thumbUrl: '/assets/images/works/thumbs/Mandala.jpg'
+thumbUrl: '/assets/images/works/thumbs/Mandala2024.jpg'
 imgUrl: "front.jpg"
 galleryFolder: "Mandala2024"
 gallery:
@@ -13,13 +13,13 @@ gallery:
   - { imgUrl: "4.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }
   - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "1.jpg", caption: "" }
+  # - { imgUrl: "1.jpg", caption: "" }
 date: 2024-09-20
 eleventyExcludeFromCollections: false
 ---
 
 
 <div class="Txt">
-  <h2>Mandala</h2>
-  <p>XXXX</p>
+  <h2>Mandala, 2024</h2>
+  <p>Forskellige medier og blæk, pigment Nero di Roma på Fabriano ca 99 x 69cm</p>
 </div>
