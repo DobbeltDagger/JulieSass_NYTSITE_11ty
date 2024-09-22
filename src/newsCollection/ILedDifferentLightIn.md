@@ -4,7 +4,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'I Let Different Light In'
 imageUrl: '/assets/images/news/lightIn.jpg'
 date: 2022-01-01
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 <h2><i>I Let Different Light In</i>, Vingardin, Tórshavn, 2022</h2>

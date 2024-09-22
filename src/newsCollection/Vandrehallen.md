@@ -5,7 +5,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Soloudstilling på Vandrehallen Kunsthal'
 imageUrl: '/assets/images/news/vandre_setup2.jpg'
 date: 2023-29-10
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 

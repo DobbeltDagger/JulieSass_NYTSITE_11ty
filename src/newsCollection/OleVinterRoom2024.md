@@ -3,7 +3,7 @@ title: 'Julie Sass. Call & Response. Ole Vinter Room'
 orientation: "vertical"
 permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Julie Sass. Call & Response. Ole Vinter Room'
-imageUrl: '/assets/images/news/OleVinterRoom2024.jpg'
+imageUrl: '/assets/images/news/KomViBliverTilNogetAndet.jpg'
 date: 2024-23-08
 eleventyExcludeFromCollections: false
 ---

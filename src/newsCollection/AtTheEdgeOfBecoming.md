@@ -4,7 +4,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'At The Edge Of Becoming'
 imageUrl: '/assets/images/news/installation.jpg'
 date: 2023-01-01
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 <!-- <h2><i>At the Edge of Becoming</i>, Galleri Maria Friis, 2023</h2> -->

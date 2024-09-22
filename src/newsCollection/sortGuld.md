@@ -4,7 +4,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Sort Guld'
 imageUrl: '/assets/images/news/sortGuld.jpg'
 date: 2023-01-01
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 
