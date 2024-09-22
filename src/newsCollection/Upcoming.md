@@ -10,10 +10,26 @@ eleventyExcludeFromCollections: false
 
 
 <h2>Upcoming</h2>
-<p>Intensiteter, 1. sal, Bjørnsonsvej 100, 2500 Valby</p>
-<p>Reading October 31st, Faurschou Foundation, New York<br/>
+
+<!-- <p>Intensiteter, 1. sal, Bjørnsonsvej 100, 2500 Valby</p> -->
+
+<p>Tableu KOM VI BLIVER SOM NOGET ANDET må gerne komme på Hovedsiden, sammen med kommende readings:</p>
+
+<p>+<br/>
+Reading October 31st, Faurschou Foundation, New York<br/>
 LET*S BECOME SOMETHING ELSE<br/>
 -Visual Letters-</p>
-<p>Reading BogForum November 2nd<br/>
+
+<p>+<br/>
+Reading BogForum November 2nd<br/>
 KOM VI BLIVER TIL NOGET ANDET<br/>
 -Brevbilleder-</p>
+
+<p>+<br/>
+CALL & RESPONSE, soloudstilling, Printers Proof<br/>
+<a href="https://kunsten.nu/artguide/venue/ole-vinter-room/" target="_blank">https://kunsten.nu/artguide/venue/ole-vinter-room/</a></p>
+
+<p>+<br/>
+Intensiteter, 1. sal Bjørnsonsvej 100, 2500 Valby<br/>
+Fernisering den 22/9 2024<br/>
+Ikon: Maleri. 2022. 50 x 40cm, forskellige medier på bomuld.</p>
