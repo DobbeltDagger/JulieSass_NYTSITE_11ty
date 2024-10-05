@@ -5,7 +5,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Upcoming'
 imageUrl: '/assets/images/news/Upcoming.jpg'
 date: 2024-01-01
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 

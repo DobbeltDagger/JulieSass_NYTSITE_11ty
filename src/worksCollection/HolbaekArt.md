@@ -16,4 +16,4 @@ eleventyExcludeFromCollections: false
 
 
 <h2>Holbæk Art</h2>
-<p>Lorem Ipsum</p>
+<p><a href="https://holbaekart.dk/kunstner/julie-sass/" target="_blank">Julie Sass - Holbæk Art (holbaekart.dk)</a></p>

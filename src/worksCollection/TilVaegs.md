@@ -14,4 +14,4 @@ eleventyExcludeFromCollections: false
 
 
 <h2>TIL VÆGS</h2>
-<p>Lorem Ipsum</p>
+<p><a href="https://artmatter.dk/journal/kunsthal-charlottenborg-sat-til-vaegs/" target="_blank">Kunsthal Charlottenborg sat til vægs - Art Matter - Guide - Journal - Festival</a></p>

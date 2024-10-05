@@ -12,4 +12,4 @@ eleventyExcludeFromCollections: false
 
 
 <h2>Sewn image, 2015/2016</h2>
-<p>Lorem Ipsum</p>
+<!-- <p>Lorem Ipsum</p> -->

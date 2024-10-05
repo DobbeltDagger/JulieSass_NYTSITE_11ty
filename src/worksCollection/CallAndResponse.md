@@ -22,7 +22,8 @@ gallery:
   - { imgUrl: "4.jpg", caption: "" }
   - { imgUrl: "3.jpg", caption: "" }
   # - { imgUrl: "2.jpg", caption: "" }
-  - { imgUrl: "1.jpg", caption: "" }
+  # - { imgUrl: "1.jpg", caption: "" }
+  - { imgUrl: "18.jpg", caption: "Værkinfo: Sewn IMAGE, 2024. Akryl, pigmenter, bånd og broderitråd, på ostelærred. ca 25 x 22.5 cm" }
 date: 2024-09-20
 eleventyExcludeFromCollections: false
 ---
