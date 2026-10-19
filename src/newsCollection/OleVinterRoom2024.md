@@ -5,7 +5,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Julie Sass. Call & Response. Ole Vinter Room'
 imageUrl: '/assets/images/news/KomViBliverTilNogetAndet.jpg'
 date: 2024-23-08
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 

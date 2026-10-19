@@ -5,7 +5,7 @@ permalink: "/news/{{ title | slugify }}/"
 shortTitle: 'Kom Vi Bliver Til Noget Andet'
 imageUrl: '/assets/images/news/KomViBliverTilNogetAndet2.jpg'
 date: 2024-20-09
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 ---
 
 
