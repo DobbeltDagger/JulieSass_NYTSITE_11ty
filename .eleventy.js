@@ -1,4 +1,5 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+// const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 module.exports = function(eleventyConfig) {
 
@@ -46,6 +47,7 @@ module.exports = function(eleventyConfig) {
   // eleventyConfig.addPassthroughCopy("assets/images/prints");
 
   // Get only content that matches a tag - https://www.11ty.dev/docs/collections/ (bottom half of page)
+  /*
   eleventyConfig.addCollection("cvEducation", function(collection) {
     return collection.getFilteredByTag("education");
   });
@@ -82,6 +84,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("cvResidencies", function(collection) {
     return collection.getFilteredByTag("residency");
   });
+  */
+
+
+  // upgrading
+  // eleventyConfig.addPlugin(UpgradeHelper);
+
 
   
   return {
